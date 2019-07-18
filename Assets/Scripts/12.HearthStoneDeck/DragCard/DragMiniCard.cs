@@ -11,6 +11,7 @@ public class DragMiniCard : DragCardBase
     private MiniCard _miniCard;
     private Image _image;
     private DraggingState _draggingState;
+    private RectTransform _contentTans;
 
     public override void Init(DraggingRoot draggingRoot, Action endDrag, CardPoolMgr cardPoolMgr)
     {
@@ -23,12 +24,14 @@ public class DragMiniCard : DragCardBase
     {
         base.OnBeginDrag(eventData);
         _draggingState = DraggingState.Motionless;
-        GetComponent<MiniCard>().SetGraphicState(true);
+        _miniCard.SetGraphicState(true);
+        _contentTans = transform.parent.GetComponent<RectTransform>();
     }
 
     public override void OnDrag(PointerEventData eventData)
     {
-        JudgeDirection(eventData);
+        SetDirection(eventData);
+        ExcuteDrag(eventData);
     }
 
     public override void EndDrag(bool isEnd, Transform lastCard)
@@ -57,11 +60,10 @@ public class DragMiniCard : DragCardBase
         }
     }
 
-    void JudgeDirection(PointerEventData eventData)
+    private void SetDirection(PointerEventData eventData)
     {
         if (_draggingState == DraggingState.Motionless)
         {
-            //判断是左右还是上下，通过设置对立的参数为0进行判断，
             if (Mathf.Abs(eventData.delta.x) > Mathf.Abs(eventData.delta.y))
             {
                 _draggingState = DraggingState.HorizontalDrag;
@@ -71,24 +73,19 @@ public class DragMiniCard : DragCardBase
             {
                 _draggingState = DraggingState.VerticalDrag;
             }
-
         }
-
-        if (_draggingState == DraggingState.HorizontalDrag)
-        {
-            SetTheDraggingState(eventData);
-        }
-        else if(_draggingState == DraggingState.VerticalDrag)
-        {
-            RectTransform temp = transform.parent.GetComponent<RectTransform>();
-            temp.DOAnchorPosY(temp.anchoredPosition.y + eventData.delta.y * 2f, 0.2f);
-        }
-        
     }
 
-    private void SetTheDraggingState(PointerEventData eventData)
+    private void ExcuteDrag(PointerEventData eventData)
     {
-        base.OnDrag(eventData);
+        if (_draggingState == DraggingState.HorizontalDrag)
+        {
+            base.OnDrag(eventData);
+        }
+        else if (_draggingState == DraggingState.VerticalDrag)
+        {
+            _contentTans.DOAnchorPosY(_contentTans.anchoredPosition.y + eventData.delta.y * 2f, 0.2f);
+        }
     }
 }
 

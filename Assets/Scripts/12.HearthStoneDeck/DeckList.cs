@@ -57,6 +57,7 @@ public class DeckList : MonoBehaviour
 
         var model = _draggingRoot.CurrentDraggingCard.Model;
         var card = _cardPoolMgr.Spawn(((CardType)model.Type).ToString(), _draggingRoot.transform);
+        card.GetComponent<ICard>().Init(SizeType.NormalCard, model);
         _draggingRoot.SetDraggingCard(card);
     }
 
