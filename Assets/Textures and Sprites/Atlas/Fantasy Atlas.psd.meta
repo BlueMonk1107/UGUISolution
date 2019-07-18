@@ -1,0 +1,4816 @@
+fileFormatVersion: 2
+guid: b8ec474625dbcb847b8e2e19ad188065
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7181525649475760055
+    second: Fantasy Atlas_0
+  - first:
+      213: -2422765454443688021
+    second: Fantasy Atlas_1
+  - first:
+      213: -5184960131924871030
+    second: Fantasy Atlas_2
+  - first:
+      213: 2856426954253702961
+    second: Fantasy Atlas_3
+  - first:
+      213: 3681172971609297271
+    second: Fantasy Atlas_4
+  - first:
+      213: 8492165048299995824
+    second: Fantasy Atlas_5
+  - first:
+      213: -6187075432686873005
+    second: Fantasy Atlas_6
+  - first:
+      213: -1485692865425739101
+    second: Fantasy Atlas_7
+  - first:
+      213: 6165894401254428171
+    second: Fantasy Atlas_8
+  - first:
+      213: 4714652811734276963
+    second: Fantasy Atlas_9
+  - first:
+      213: 7135174401240887764
+    second: Fantasy Atlas_10
+  - first:
+      213: 7156829148178666059
+    second: Fantasy Atlas_11
+  - first:
+      213: -8319605752976686353
+    second: Fantasy Atlas_12
+  - first:
+      213: 6026741947091317273
+    second: Fantasy Atlas_13
+  - first:
+      213: 6131218314314703025
+    second: Fantasy Atlas_14
+  - first:
+      213: -734667317394847137
+    second: Fantasy Atlas_15
+  - first:
+      213: 4893158707106143446
+    second: Fantasy Atlas_16
+  - first:
+      213: 7116763974135142435
+    second: Fantasy Atlas_17
+  - first:
+      213: -7514732154033917380
+    second: Fantasy Atlas_18
+  - first:
+      213: 5459715723880691712
+    second: Fantasy Atlas_19
+  - first:
+      213: -385320434139967647
+    second: Fantasy Atlas_20
+  - first:
+      213: -3759003060268328158
+    second: Fantasy Atlas_21
+  - first:
+      213: -288797345060197559
+    second: Fantasy Atlas_22
+  - first:
+      213: 7822457749200210029
+    second: Fantasy Atlas_23
+  - first:
+      213: 2200596956255956774
+    second: Fantasy Atlas_24
+  - first:
+      213: -4799508178778165956
+    second: Fantasy Atlas_25
+  - first:
+      213: -6869170650294495280
+    second: Fantasy Atlas_26
+  - first:
+      213: 8871720056095875540
+    second: Fantasy Atlas_27
+  - first:
+      213: 203474955158008999
+    second: Fantasy Atlas_28
+  - first:
+      213: 49253114444727073
+    second: Fantasy Atlas_29
+  - first:
+      213: -7978543494704790685
+    second: Fantasy Atlas_30
+  - first:
+      213: -8136528692919876233
+    second: Fantasy Atlas_31
+  - first:
+      213: -683940905937365229
+    second: Fantasy Atlas_32
+  - first:
+      213: -989998110247108327
+    second: Fantasy Atlas_33
+  - first:
+      213: 6138784648187322000
+    second: Fantasy Atlas_34
+  - first:
+      213: 5316250483001825715
+    second: Fantasy Atlas_35
+  - first:
+      213: 4567774226009825819
+    second: Fantasy Atlas_36
+  - first:
+      213: 1997112134430421575
+    second: Fantasy Atlas_37
+  - first:
+      213: 2860639421737347178
+    second: Fantasy Atlas_38
+  - first:
+      213: -8124136974701049883
+    second: Fantasy Atlas_39
+  - first:
+      213: 5641617313398777752
+    second: Fantasy Atlas_40
+  - first:
+      213: -6457491826610959742
+    second: Fantasy Atlas_41
+  - first:
+      213: 5678291467569965408
+    second: Fantasy Atlas_42
+  - first:
+      213: -4557197861754407236
+    second: Fantasy Atlas_43
+  - first:
+      213: 2087814784675490464
+    second: Fantasy Atlas_44
+  - first:
+      213: -5453943645492485549
+    second: Fantasy Atlas_45
+  - first:
+      213: -1157728097173254328
+    second: Fantasy Atlas_46
+  - first:
+      213: 2689595641518736997
+    second: Fantasy Atlas_47
+  - first:
+      213: 6719194803085155380
+    second: Fantasy Atlas_48
+  - first:
+      213: -7386317297467379075
+    second: Fantasy Atlas_49
+  - first:
+      213: -6481062736876079906
+    second: Fantasy Atlas_50
+  - first:
+      213: -593902174849038370
+    second: Fantasy Atlas_51
+  - first:
+      213: 8496618593614210805
+    second: Fantasy Atlas_52
+  - first:
+      213: -531497973809079765
+    second: Fantasy Atlas_53
+  - first:
+      213: 2748838051710315968
+    second: Fantasy Atlas_54
+  - first:
+      213: 8757983063312911686
+    second: Fantasy Atlas_55
+  - first:
+      213: -3443721999151473303
+    second: Fantasy Atlas_56
+  - first:
+      213: 2938788950028025671
+    second: Fantasy Atlas_57
+  - first:
+      213: 3335158648892634208
+    second: Fantasy Atlas_58
+  - first:
+      213: 7154456939423056635
+    second: Fantasy Atlas_59
+  - first:
+      213: -6673389401142498736
+    second: Fantasy Atlas_60
+  - first:
+      213: -6288982563461986347
+    second: Fantasy Atlas_61
+  - first:
+      213: 4236782737051953593
+    second: Fantasy Atlas_62
+  - first:
+      213: 4775563868506668176
+    second: Fantasy Atlas_63
+  - first:
+      213: 4383536237906373635
+    second: Fantasy Atlas_64
+  - first:
+      213: 3917570570361911949
+    second: Fantasy Atlas_65
+  - first:
+      213: -1881536301956106870
+    second: Fantasy Atlas_66
+  - first:
+      213: 7326212155374077323
+    second: Fantasy Atlas_67
+  - first:
+      213: 364562797722092626
+    second: Fantasy Atlas_68
+  - first:
+      213: 3848716145014257147
+    second: Fantasy Atlas_69
+  - first:
+      213: -4900540354286841183
+    second: Fantasy Atlas_70
+  - first:
+      213: 1831762444297698271
+    second: Fantasy Atlas_71
+  - first:
+      213: 1795584096442279024
+    second: Fantasy Atlas_72
+  - first:
+      213: 3148641604513695229
+    second: Fantasy Atlas_73
+  - first:
+      213: -1865518485035982838
+    second: Fantasy Atlas_74
+  - first:
+      213: 3320782290786149284
+    second: Fantasy Atlas_75
+  - first:
+      213: 1644309164825333317
+    second: Fantasy Atlas_76
+  - first:
+      213: -4646146350335659095
+    second: Fantasy Atlas_77
+  - first:
+      213: 6954820208017887559
+    second: Fantasy Atlas_78
+  - first:
+      213: 2984362917904054097
+    second: Fantasy Atlas_79
+  - first:
+      213: 5711162737174175007
+    second: Fantasy Atlas_80
+  - first:
+      213: 4550814922668972907
+    second: Fantasy Atlas_81
+  - first:
+      213: -1700547505430916930
+    second: Fantasy Atlas_82
+  - first:
+      213: 6529186008528628660
+    second: Fantasy Atlas_83
+  - first:
+      213: -172953709500693601
+    second: Fantasy Atlas_84
+  - first:
+      213: 1348422869161352542
+    second: Fantasy Atlas_85
+  - first:
+      213: 6950544571478594520
+    second: Fantasy Atlas_86
+  - first:
+      213: 7711661896284087062
+    second: Fantasy Atlas_87
+  - first:
+      213: 2269951223578455137
+    second: Fantasy Atlas_88
+  - first:
+      213: -6823756147516175293
+    second: Fantasy Atlas_89
+  - first:
+      213: 7699388656620286171
+    second: Fantasy Atlas_90
+  - first:
+      213: 8746234733206620643
+    second: Fantasy Atlas_91
+  - first:
+      213: -7455587917614387743
+    second: Fantasy Atlas_92
+  - first:
+      213: -5250583662337861228
+    second: Fantasy Atlas_93
+  - first:
+      213: 449629153180190926
+    second: Fantasy Atlas_94
+  - first:
+      213: 1957163562870266947
+    second: Fantasy Atlas_95
+  - first:
+      213: 6930772286800024198
+    second: Fantasy Atlas_96
+  - first:
+      213: 8248416732692476144
+    second: Fantasy Atlas_97
+  - first:
+      213: 7706312153558881479
+    second: Fantasy Atlas_98
+  - first:
+      213: -1275710991764988460
+    second: Fantasy Atlas_99
+  - first:
+      213: -1728383788816350833
+    second: Fantasy Atlas_100
+  - first:
+      213: 6116835490235342763
+    second: Fantasy Atlas_101
+  - first:
+      213: -2635761212444004725
+    second: Fantasy Atlas_102
+  - first:
+      213: -6939662858812641247
+    second: Fantasy Atlas_103
+  - first:
+      213: 3567278465174475928
+    second: Fantasy Atlas_104
+  - first:
+      213: 8229704894325378936
+    second: Fantasy Atlas_105
+  - first:
+      213: 5986388745822336417
+    second: Fantasy Atlas_106
+  - first:
+      213: -5840584663365437808
+    second: Fantasy Atlas_107
+  - first:
+      213: -6153820872278494633
+    second: Fantasy Atlas_108
+  - first:
+      213: 7844655275289929587
+    second: Fantasy Atlas_109
+  - first:
+      213: -1609431181265031500
+    second: Fantasy Atlas_110
+  - first:
+      213: -8730909367092023947
+    second: Fantasy Atlas_111
+  - first:
+      213: -4385953437280481775
+    second: Fantasy Atlas_112
+  - first:
+      213: 252328314401718889
+    second: Fantasy Atlas_113
+  - first:
+      213: -2258710445999759523
+    second: Fantasy Atlas_114
+  - first:
+      213: 957375907161599903
+    second: Fantasy Atlas_115
+  - first:
+      213: 1325575095950184045
+    second: Fantasy Atlas_116
+  - first:
+      213: -4067719447562777023
+    second: Fantasy Atlas_117
+  - first:
+      213: 6052187590765540967
+    second: Fantasy Atlas_118
+  - first:
+      213: 1888379639553364983
+    second: Fantasy Atlas_119
+  - first:
+      213: -4509823612148742746
+    second: Fantasy Atlas_120
+  - first:
+      213: -6820934536152050950
+    second: Fantasy Atlas_121
+  - first:
+      213: -8577470961176121310
+    second: Fantasy Atlas_122
+  - first:
+      213: -663968153724939594
+    second: Fantasy Atlas_123
+  - first:
+      213: -6699323521494427498
+    second: Fantasy Atlas_124
+  - first:
+      213: 8626089388024754149
+    second: Fantasy Atlas_125
+  - first:
+      213: -5080494626700231315
+    second: Fantasy Atlas_126
+  - first:
+      213: 1443374556667812098
+    second: Fantasy Atlas_127
+  - first:
+      213: 3141376364204735787
+    second: Fantasy Atlas_128
+  - first:
+      213: -6939586819111347306
+    second: Fantasy Atlas_129
+  - first:
+      213: 2848800395653572873
+    second: Fantasy Atlas_130
+  - first:
+      213: -5844924514263983677
+    second: Fantasy Atlas_131
+  - first:
+      213: 4629971232754517820
+    second: Fantasy Atlas_132
+  - first:
+      213: 8639310473869163997
+    second: Fantasy Atlas_133
+  - first:
+      213: 6481390084501995669
+    second: Fantasy Atlas_134
+  - first:
+      213: -9113903135364627146
+    second: Fantasy Atlas_135
+  - first:
+      213: -2185988914270646880
+    second: Fantasy Atlas_136
+  - first:
+      213: -7161737650045631123
+    second: Fantasy Atlas_137
+  - first:
+      213: 3514311820210868087
+    second: Fantasy Atlas_138
+  - first:
+      213: -8222320684950975202
+    second: Fantasy Atlas_139
+  - first:
+      213: -6523994274302064760
+    second: Fantasy Atlas_140
+  - first:
+      213: -5738938357320030568
+    second: Fantasy Atlas_141
+  - first:
+      213: 7851048500124866238
+    second: Fantasy Atlas_142
+  - first:
+      213: 3233500815524638311
+    second: Fantasy Atlas_143
+  - first:
+      213: -3636393833134175862
+    second: Fantasy Atlas_144
+  - first:
+      213: 7964228772340826502
+    second: Fantasy Atlas_145
+  - first:
+      213: -2626409857881415638
+    second: Fantasy Atlas_146
+  - first:
+      213: 8155549294962544238
+    second: Fantasy Atlas_147
+  - first:
+      213: -4962683914036937262
+    second: Fantasy Atlas_148
+  - first:
+      213: -3380092203526686543
+    second: Fantasy Atlas_149
+  - first:
+      213: -2451002361765189977
+    second: Fantasy Atlas_150
+  - first:
+      213: 4318723898886910367
+    second: Fantasy Atlas_151
+  - first:
+      213: 6676991924332987425
+    second: Fantasy Atlas_152
+  - first:
+      213: -4634747541205076669
+    second: Fantasy Atlas_153
+  - first:
+      213: 1942450072807115898
+    second: Fantasy Atlas_154
+  - first:
+      213: -4225118868053436152
+    second: Fantasy Atlas_155
+  - first:
+      213: -5846667897246120596
+    second: Fantasy Atlas_156
+  - first:
+      213: 7391179441583990746
+    second: Fantasy Atlas_157
+  - first:
+      213: 8724677178380082618
+    second: Fantasy Atlas_158
+  - first:
+      213: -4592290732379645250
+    second: Fantasy Atlas_159
+  - first:
+      213: 4128910795083048409
+    second: Fantasy Atlas_160
+  - first:
+      213: -4834031818976630690
+    second: Fantasy Atlas_161
+  - first:
+      213: -2743207259450843670
+    second: Fantasy Atlas_162
+  - first:
+      213: -1607000003089713660
+    second: Fantasy Atlas_163
+  - first:
+      213: -8860004598089671777
+    second: Fantasy Atlas_164
+  - first:
+      213: 5928247069865519832
+    second: Fantasy Atlas_165
+  - first:
+      213: -4842715827729016567
+    second: Fantasy Atlas_166
+  - first:
+      213: -2080141035665464824
+    second: Fantasy Atlas_167
+  - first:
+      213: 7455003273685464647
+    second: Fantasy Atlas_168
+  - first:
+      213: 2350251440467644571
+    second: Fantasy Atlas_169
+  - first:
+      213: 7840274158671857504
+    second: Fantasy Atlas_170
+  - first:
+      213: -7398491062195421821
+    second: Fantasy Atlas_171
+  - first:
+      213: -6725635699300589943
+    second: Fantasy Atlas_172
+  - first:
+      213: 9139291863331983053
+    second: Fantasy Atlas_173
+  - first:
+      213: 3979849773019591801
+    second: Fantasy Atlas_174
+  - first:
+      213: 624117671381008763
+    second: Fantasy Atlas_175
+  - first:
+      213: 148911172608676116
+    second: Fantasy Atlas_176
+  - first:
+      213: 554951505768367884
+    second: Fantasy Atlas_177
+  - first:
+      213: -3377391903146394342
+    second: Fantasy Atlas_178
+  - first:
+      213: 233482481960768677
+    second: Fantasy Atlas_179
+  - first:
+      213: 1892342309661111868
+    second: Fantasy Atlas_180
+  - first:
+      213: 2467033228227263975
+    second: Fantasy Atlas_181
+  - first:
+      213: -6567134243219879456
+    second: Fantasy Atlas_182
+  - first:
+      213: -4814470345786009877
+    second: Fantasy Atlas_183
+  - first:
+      213: -5847663085929117836
+    second: Fantasy Atlas_184
+  - first:
+      213: 1049579268618498262
+    second: Fantasy Atlas_185
+  - first:
+      213: -5736305006352669124
+    second: Fantasy Atlas_186
+  - first:
+      213: -313057700004588691
+    second: Fantasy Atlas_187
+  - first:
+      213: 6849346404883868475
+    second: Fantasy Atlas_188
+  - first:
+      213: -5610266263783474629
+    second: Fantasy Atlas_189
+  - first:
+      213: 7544332162693378349
+    second: Fantasy Atlas_190
+  - first:
+      213: 8991001115274723411
+    second: Fantasy Atlas_191
+  - first:
+      213: -8609621513203439108
+    second: Fantasy Atlas_192
+  - first:
+      213: -4398370913373102054
+    second: Fantasy Atlas_193
+  - first:
+      213: 3504404255542315696
+    second: Fantasy Atlas_194
+  - first:
+      213: -3704900939596802097
+    second: Fantasy Atlas_195
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantasy Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 489
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7976fd8af95784f42a6d0e08cb04e3eb
+      internalID: 7181525649475760055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 489
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093b625d6cf4ac748a165918987eb271
+      internalID: -2422765454443688021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 488
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0251e240d9db11d418f6062d311181ea
+      internalID: -5184960131924871030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 489
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80e7dc0b322dff4db7c4c184b4c90b0
+      internalID: 2856426954253702961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 489
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a99033ce0da8e144983d9a74e7afd63
+      internalID: 3681172971609297271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 488
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5120d2a67048404ab9bd4ce333f4b58
+      internalID: 8492165048299995824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 489
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72c6f619c46d634e86556e70e8e9bd4
+      internalID: -6187075432686873005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 489
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369082c151aa1ae42a360279b878299e
+      internalID: -1485692865425739101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 489
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8930f655115684b990a7cb904533d9
+      internalID: 6165894401254428171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 489
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2fd330f123b4d4d8511a45df0b300b
+      internalID: 4714652811734276963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 489
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7246a290472a0b747b8ed162f36c9d83
+      internalID: 7135174401240887764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 490
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d21da9c97a00d4d8b1409fc142a85b
+      internalID: 7156829148178666059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 490
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a485275772d6e040b6e6819dd0ad32d
+      internalID: -8319605752976686353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 490
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9360c1b15335bd42ab8d88b2bcc6ecc
+      internalID: 6026741947091317273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 490
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adf117b86627204b8a2ed1760ea55b2
+      internalID: 6131218314314703025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 488
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd48b60102847704fbf9e3317d2fdec3
+      internalID: -734667317394847137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 492
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7e39e234b52f7418f92f321bb91b80
+      internalID: 4893158707106143446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 387
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f95dcb5522514fb320714d685a8d8
+      internalID: 7116763974135142435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 464
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6379dbf1b4ec6e46b1f0d881711b736
+      internalID: -7514732154033917380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 464
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497e5f26021f87143823179e2cfc2795
+      internalID: 5459715723880691712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 466
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c278201d2bcadb40af5a86fd71acbe1
+      internalID: -385320434139967647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 466
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1993bf9eb9de06843b4da698be31289d
+      internalID: -3759003060268328158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 466
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238d10ed76dd2a246b94e4cd4de8f2a7
+      internalID: -288797345060197559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 466
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4373e34df9d9d1342a7965234b9b2e90
+      internalID: 7822457749200210029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 467
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb1aa0a0675220448d7ffc85d3f897d
+      internalID: 2200596956255956774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 467
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7defc3e4b4e5586479c87cc93fc158e2
+      internalID: -4799508178778165956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 467
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968372c4d8f01ed42831f939af2353f6
+      internalID: -6869170650294495280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 467
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492ea1f5b76f4594c9e8b1c3bca1e1ff
+      internalID: 8871720056095875540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 468
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910e41a68f9001841b7587d72a4c3e3b
+      internalID: 203474955158008999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 468
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fa3344a50f1514cb0d79ab4b82e0fa
+      internalID: 49253114444727073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 468
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3e3c5369bae9c48a5e3bd756d1dad4
+      internalID: -7978543494704790685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 468
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22b588507ed6574dba8a9161f67cc15
+      internalID: -8136528692919876233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 468
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd027882878482e40b890d1852f4aa64
+      internalID: -683940905937365229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 468
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334b1269fd9c6184a82db2ba2502509e
+      internalID: -989998110247108327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b27e952976b50449f34d72ee79c11d
+      internalID: 6138784648187322000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 442
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b684b4fcc1d3c43a6ceafc393960c7
+      internalID: 5316250483001825715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 443
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a247d477c793fd4d9752afd9e4c54fe
+      internalID: 4567774226009825819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 444
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3118a63457c18ba4fa25b402555e3b4b
+      internalID: 1997112134430421575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 444
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c79a30e7a6d274d9367e02785c8cbc
+      internalID: 2860639421737347178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 444
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35a7ac675e6b63408c2dc7159ac4845
+      internalID: -8124136974701049883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 444
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02170430af8dc0e4688d0e3d367bb736
+      internalID: 5641617313398777752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 445
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d013e4deed7516a4a98ff8fe83a1fbe4
+      internalID: -6457491826610959742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 445
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f295a2fdb1041458909b1a4e86d98c
+      internalID: 5678291467569965408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 445
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bed38874aacdf40bbd2f7923e85008
+      internalID: -4557197861754407236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 446
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c561f6be69307d459d8a15d56823c4c
+      internalID: 2087814784675490464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 446
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78980b073f1a0944a0d279c2518f4f1
+      internalID: -5453943645492485549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 447
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945d135586776e24a81d534ac07074a5
+      internalID: -1157728097173254328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 448
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecacee278700a9d4db4e44eb7e0677a5
+      internalID: 2689595641518736997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 448
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f494e6cfcccc74e8ea362ce90d94ba
+      internalID: 6719194803085155380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 448
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58056c8505591a94eb39339c2d2373f8
+      internalID: -7386317297467379075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 448
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cb810d5d59e1645965cedb4fc0a6f9
+      internalID: -6481062736876079906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 422
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcb2dcb4e5c8ba4ba639338cf4a72b6
+      internalID: -593902174849038370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 422
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020696829d9c22458505271319954f1
+      internalID: 8496618593614210805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 423
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f36f3ca75c0132489012763ecaa9a5c
+      internalID: -531497973809079765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 424
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8612313b09fbae44bb54a6049f5b266
+      internalID: 2748838051710315968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 424
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e93d0727dc59644ab5d0135b73aeec8
+      internalID: 8757983063312911686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 424
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c1ebf1b68642d42930de6a29a192bb
+      internalID: -3443721999151473303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 424
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f236cbc4d99b29742999a941532d117f
+      internalID: 2938788950028025671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 424
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00555fb4291ef1148912ef09ac313eee
+      internalID: 3335158648892634208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 425
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86da439a6067885408d97ca9b69f5c62
+      internalID: 7154456939423056635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 426
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5454c9a3070924446b10aa8cbc1155ec
+      internalID: -6673389401142498736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 425
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a22921ac09bd5f4c90f4bb9a42522f1
+      internalID: -6288982563461986347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 426
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a366e9ce4c68ad4b8f0d2ce5f4e0db3
+      internalID: 4236782737051953593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 426
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea517ad2d73a004c8792102b5c806fc
+      internalID: 4775563868506668176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 427
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e7d4e2625d724ab8d6e1a5d45b888
+      internalID: 4383536237906373635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 429
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40ac2e5e667bcb4e8fab7ee193c3270
+      internalID: 3917570570361911949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 429
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c778213134598c42bd887159b0ec936
+      internalID: -1881536301956106870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9128ff542491a42ba426f6ee056745
+      internalID: 7326212155374077323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 429
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff713d2e8268f34aaf0153b24ab1ecd
+      internalID: 364562797722092626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210a144d2d0843b4d9769a4e069f324b
+      internalID: 3848716145014257147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 403
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad57ceff1f65124697140393171875e
+      internalID: -4900540354286841183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 404
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288ad59720d4b3240bbad027d4ed697c
+      internalID: 1831762444297698271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 405
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe550ca02bf95249a5699daff03fc31
+      internalID: 1795584096442279024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 405
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90747118bb9e76643ab76592fcb42546
+      internalID: 3148641604513695229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 405
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fada15a4bc5195f42ace7c919681c01a
+      internalID: -1865518485035982838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 405
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87a84585f9eae644a3d61d91938cc78
+      internalID: 3320782290786149284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 406
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d912a29005478dd4384baebf68569012
+      internalID: 1644309164825333317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 406
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80387825fcc41842a02cb7214cf78bb
+      internalID: -4646146350335659095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 407
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff052379629c1b240b9a6b7909530195
+      internalID: 6954820208017887559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 408
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ed675cd8451448985559d55c2887e
+      internalID: 2984362917904054097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 409
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a53cbfce6a5e5b49840d8acbf970dbe
+      internalID: 5711162737174175007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 409
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31612840c7e85ed4882d51c1bfdc5935
+      internalID: 4550814922668972907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 410
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce29b12bd2e96848976427d55a96d6e
+      internalID: -1700547505430916930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 410
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a72d95a97910644e90279f520c198a8
+      internalID: 6529186008528628660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 410
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6f2003a65d3c649a13c188a91e7d40
+      internalID: -172953709500693601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ba3827cca2de84b999f3989fcba934
+      internalID: 1348422869161352542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9a5b7e1f154d469fd7d212c553015
+      internalID: 6950544571478594520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 384
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c81efb119a5bd4e88f5bb8711a0ac1
+      internalID: 7711661896284087062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 385
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f24a9db5287b044e99856e297061f76
+      internalID: 2269951223578455137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 384
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8653d32f36012aa46a865d816cc84074
+      internalID: -6823756147516175293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 386
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646dbef9f0d87ed44ba293aae4816952
+      internalID: 7699388656620286171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 386
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e6c8971e3c82b4681468460344e56b
+      internalID: 8746234733206620643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 386
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6709eb3b96ec84ab20afd3a242df50
+      internalID: -7455587917614387743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 386
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d099687f5bbb44db002ef95db6dba9
+      internalID: -5250583662337861228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 388
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19ce813e2a20074d892eb3d0fb67cc5
+      internalID: 449629153180190926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 387
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f375821da32b9e448a0d255f6e00cc79
+      internalID: 1957163562870266947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 388
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfaab5fb00c86642ba26d30d6edc1ca
+      internalID: 6930772286800024198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 389
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48057ff57ac8284dac935b0620dc517
+      internalID: 8248416732692476144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 389
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7bfc7c2b57ed740beac5cf4dc15f7c
+      internalID: 7706312153558881479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 391
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9799148c4cc1e8749a2bc23708cccb23
+      internalID: -1275710991764988460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 391
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a04d7ecd0aa673438189e9211cbdf15
+      internalID: -1728383788816350833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb45d1c90db981b4281fc7794e51a1be
+      internalID: 6116835490235342763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 366
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94172053267894469dfddbe159fc839
+      internalID: -2635761212444004725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 366
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8915064ffa5d40a47abe28baac47778f
+      internalID: -6939662858812641247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 366
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dea82b91b1d27647832c3990e7e0f7c
+      internalID: 3567278465174475928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 367
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbee0a517d01a14c9d184319bd33c7c
+      internalID: 8229704894325378936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 368
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f5ed72af755b54c8275d0d1f9207ee
+      internalID: 5986388745822336417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 368
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc79c6ce9b40454da09fbe91fa2e91f
+      internalID: -5840584663365437808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 368
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d93296919b1edc429479ae1babd3adc
+      internalID: -6153820872278494633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 368
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3cf5f52f91bcc4cb3f7ae298956dde
+      internalID: 7844655275289929587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 369
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1329e5d24149b4e4390d3ea44501ae7a
+      internalID: -1609431181265031500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_111
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 370
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ffb0572a59f4f4c8aa073c6420fb47
+      internalID: -8730909367092023947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_112
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 371
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96be3a585a6aa49bdc8356b4e8c24f
+      internalID: -4385953437280481775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_113
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 371
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67b3604150924a45aae9bd178a1b5e2
+      internalID: 252328314401718889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_114
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 373
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3709255d6ae3f624d99663a2470f683b
+      internalID: -2258710445999759523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 373
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af9ca5d594a5204a9fc945751b5730c
+      internalID: 957375907161599903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 374
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c3227ca888a64499a101d50d61f475
+      internalID: 1325575095950184045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_117
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 350
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c3cf27498c0414d88a646c6c20e34c
+      internalID: -4067719447562777023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_118
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 350
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c597b7f91e17e284d89219b8e8e0d274
+      internalID: 6052187590765540967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_119
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 350
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9147fb5182b57184cafd6ca7a908a44f
+      internalID: 1888379639553364983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_120
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 350
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242df62091f5484479f7fbd291abe304
+      internalID: -4509823612148742746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_121
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 350
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c1d55694b7caa4c80890039acf8383
+      internalID: -6820934536152050950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_122
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 351
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b3b241bb61d44e851a6fa7098b96e
+      internalID: -8577470961176121310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_123
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 352
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fd51429840d114c89e08a6bec36f6c
+      internalID: -663968153724939594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_124
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 352
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e2f10ba8c617646b109b55b1b5188f
+      internalID: -6699323521494427498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_125
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 353
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b573368e928d52e4a8fb406daac37d56
+      internalID: 8626089388024754149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_126
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 353
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e110b572a500fe7409908a0db4f95f73
+      internalID: -5080494626700231315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_127
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 353
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbd7b19c39596f4f89a96030cfb3be1
+      internalID: 1443374556667812098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee12a51e0f0579e4984ba4a5faf43a3e
+      internalID: 3141376364204735787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 356
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac98c862cc755e449d49acaeee708af
+      internalID: -6939586819111347306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 357
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdbbdc66be675e4a9fa27ece14b6e69
+      internalID: 2848800395653572873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_131
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 348
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8f9b518b243774b9e5ca98c9f57f77
+      internalID: -5844924514263983677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_132
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 348
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f2c0b1ecfd0284094590a099f7320d
+      internalID: 4629971232754517820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 348
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc82e3e119429834f83bf159877e64b9
+      internalID: 8639310473869163997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 348
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c4d1fcf032c2c43a6c8301dbf87a98
+      internalID: 6481390084501995669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_135
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 349
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7ee82a61301574db3366511d7d2193
+      internalID: -9113903135364627146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_136
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 355
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e875b6eb199423a46b9fc6ae3ae95cef
+      internalID: -2185988914270646880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_137
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 342
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217b34f676d61ba46aaf2c933eee5956
+      internalID: -7161737650045631123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_138
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 331
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549fe8f3da83e454097c026c66ce5376
+      internalID: 3514311820210868087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_139
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 331
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381974ceee7bdcb46865175120e1dee1
+      internalID: -8222320684950975202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_140
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 331
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52e867daf863694b9ee5dd68e944cf6
+      internalID: -6523994274302064760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_141
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 331
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111aeb6727e22cd4ab45951fd391d7ed
+      internalID: -5738938357320030568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_142
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 332
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd869c8ada00fc4e8849f535ac3f720
+      internalID: 7851048500124866238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_143
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 333
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0458f78e1057245a96e59603900e79
+      internalID: 3233500815524638311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_144
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 333
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e341a74c2ea2640957b159240e9989
+      internalID: -3636393833134175862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_145
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 334
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb153248e554ed7449413d3a340ef333
+      internalID: 7964228772340826502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_146
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 334
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6413bb191cf9541aa6746f8962d392
+      internalID: -2626409857881415638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_147
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 335
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbe737d8be30e44bb4e518fbfae5225
+      internalID: 8155549294962544238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_148
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 337
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff460b2105f37454fa9bd0011b4fb9dd
+      internalID: -4962683914036937262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_149
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 336
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97984c2aa6cc30c4c8abaa41b999b5c5
+      internalID: -3380092203526686543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_150
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 338
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f14b580e2b9e746b39fc136e4a0639
+      internalID: -2451002361765189977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_151
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 340
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68e82cc12919ab40be2e0aa54754310
+      internalID: 4318723898886910367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_152
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 318
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f0a83a8cb10764d88d0a0ec53cdda7
+      internalID: 6676991924332987425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_153
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 318
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a383fe882c096974ea2a9c720c3b1fbd
+      internalID: -4634747541205076669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_154
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 319
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d0430fef76c34cbeac4aa3538963a
+      internalID: 1942450072807115898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_155
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 319
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f428938dc7099e24dbb4978516755cee
+      internalID: -4225118868053436152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_156
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 319
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2931b8b9f2bc4314595bee1d3d64c306
+      internalID: -5846667897246120596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_157
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 327
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6162d7571c2103b4487ed86871971af3
+      internalID: 7391179441583990746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_158
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 321
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9792900c752a94a93d576b2f73cf4d
+      internalID: 8724677178380082618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_159
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 323
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd25bbc5fd9d7640bda059d69b94a35
+      internalID: -4592290732379645250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_160
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 324
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a17d1c381440414cbe1ccb0c1df8f2c
+      internalID: 4128910795083048409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_161
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 325
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8be3a2d3881e742970339f107c2fcb
+      internalID: -4834031818976630690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_162
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 325
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e0b5a2b2f58a54688b075320303278
+      internalID: -2743207259450843670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_163
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 325
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4570bc9574c495b409868323c5fc50f4
+      internalID: -1607000003089713660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_164
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 329
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d9eeb2dba304b4cb546b677ab7e9e6
+      internalID: -8860004598089671777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_165
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 329
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec343f22494651745997519ba5d0bfa7
+      internalID: 5928247069865519832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258
+        width: 255
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fcff1edf43c79408ff262b8c8fc57f
+      internalID: -4842715827729016567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_167
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 316
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398b1a45f2b98ec4f81ed8bc92886679
+      internalID: -2080141035665464824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_168
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 316
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a6ec08b8373df40a87f191659e7af8
+      internalID: 7455003273685464647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_169
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 316
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a331e2de1b5704cb0ba6466bee87b3
+      internalID: 2350251440467644571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_170
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 316
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42a86519f847f44488136ab54381721
+      internalID: 7840274158671857504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_171
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 316
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d64761b09728540a1ddf7fa260d838
+      internalID: -7398491062195421821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_172
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 317
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdd6c78bdb77f74ea6f09ef0640c2a8
+      internalID: -6725635699300589943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_173
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 320
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387c9e96b7ce7144b9fdaed742bd77f4
+      internalID: 9139291863331983053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_174
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 309
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b7ed57d14cd844942327b4d644f15
+      internalID: 3979849773019591801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_175
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 306
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 7, z: 6, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5419e32baa7c04c810a7e8c4db7c83
+      internalID: 624117671381008763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_176
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 312
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d3b3234fdc2ab44be91925892fee81
+      internalID: 148911172608676116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_177
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 313
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80dfbd175573fe4d8a29f65419b084a
+      internalID: 554951505768367884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_178
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 316
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf27fbc2f2a99444ea764b326cb1fdfd
+      internalID: -3377391903146394342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_179
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c378012c8db3143af62cb968eb527d
+      internalID: 233482481960768677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_180
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 304
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1716c6a70badef459f0f353fab8fff6
+      internalID: 1892342309661111868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_181
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 304
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d009450df47cd40af8445cd4e34b85
+      internalID: 2467033228227263975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_182
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 305
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cfca6b212be6342921fc3ed59b1088
+      internalID: -6567134243219879456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_183
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 305
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c67a2bf01c5ac47b566a87eb9a02ff
+      internalID: -4814470345786009877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_184
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b3808dc0335844a855c29d2221be1c
+      internalID: -5847663085929117836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_185
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 305
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a999fdc339c77644ebcf25793b51bc9c
+      internalID: 1049579268618498262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_186
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 306
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb028b54e0dee04dacf659b6bd0e886
+      internalID: -5736305006352669124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_187
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 308
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27910e5113ec92f449468fd135ff2e3b
+      internalID: -313057700004588691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_188
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 308
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce244e4d60dd5bd4881066925e78dbd9
+      internalID: 6849346404883868475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_189
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 308
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5595763c87c194f8cba4350a8411ff
+      internalID: -5610266263783474629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_190
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 310
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0e6f0678293d04b8de4490d403932d
+      internalID: 7544332162693378349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_191
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 310
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd236c8ef77699d408fa4e7525a7ba75
+      internalID: 8991001115274723411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_192
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 311
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829215b1a7b1ef34c8b42efb78d9a29d
+      internalID: -8609621513203439108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_193
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 254
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03b49431963d8f4680f24f2f4d50aa0
+      internalID: -4398370913373102054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_194
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 128
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa083f7a858f3db4ca487ce264682b9b
+      internalID: 3504404255542315696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Atlas_195
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 193
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfccfb2042854f4f94bff34827b41d5
+      internalID: -3704900939596802097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cd832a5284252524db0f2bf9dac195a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
