@@ -1,77 +1,61 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class DeckList : MonoBehaviour
 {
-    private CardPoolMgr _cardPoolMgr;
+    private CardPoolMgr _poolMgr;
     private DraggingRoot _draggingRoot;
     private bool _inArea;
+    private Transform _content;
 
-    // Start is called before the first frame update
-    public void Init(CardPoolMgr cardPoolMgr, DraggingRoot draggingRoot, DeckListArea area)
+    public void Init(CardPoolMgr poolMgr,DraggingRoot draggingRoot)
     {
-        _cardPoolMgr = cardPoolMgr;
+        _poolMgr = poolMgr;
         _draggingRoot = draggingRoot;
-      
-        area.Init(EnterArea, ExitArea);
+        _inArea = false;
+        _content = transform.Find("Viewport/Content");
     }
 
-    private void EnterArea()
+    public void EnterArea()
     {
-        if(_draggingRoot.CurrentDraggingCard == null)
-            return;
-        
+        Debug.Log("EnterArea");
         _inArea = true;
-
-        var size = _draggingRoot.CurrentDraggingCard.SizeType;
-        if (size == SizeType.NormalCard && _draggingRoot.CurrentDragComponent.Card.SizeType == SizeType.NormalCard)
+        var size = _draggingRoot.CurDraggingCard.Size;
+        if (size == SizeType.NormalCard && _draggingRoot.CurDragComponent.Card.Size == SizeType.NormalCard)
         {
-            var card = _cardPoolMgr.Spawn(SizeType.MiniCard.ToString(), _draggingRoot.transform);
-            card.GetComponent<DragMiniCard>().Init(_draggingRoot, EndDrag, _cardPoolMgr);
-
-            var model = _draggingRoot.SetDraggingCard(card);
-            MiniCard miniCard = card.GetComponent<MiniCard>();
-            miniCard.Init(SizeType.MiniCard, model);
-            miniCard.SetGraphicState(true);
+            var miniCard = _poolMgr.Spwan(SizeType.MiniCard.ToString(), _draggingRoot.transform);
+            _poolMgr.Despwan(_draggingRoot.CurDraggingCard.Type.ToString(), _draggingRoot.CurDraggingCardTrans);
+            _draggingRoot.SetDraggingCard(miniCard, _draggingRoot.CurDragComponent);
         }
         else
         {
-            if(_draggingRoot.CurrentDraggingCard.SizeType == SizeType.NormalCard)
-                _cardPoolMgr.Despawn(_draggingRoot.CurrentDraggingCard.CardType.ToString(), ((MonoBehaviour)_draggingRoot.CurrentDraggingCard).transform);
+            if(_draggingRoot.CurDraggingCard.Size == SizeType.NormalCard)
+                _poolMgr.Despwan(_draggingRoot.CurDraggingCard.Type.ToString(), _draggingRoot.CurDraggingCardTrans);
 
-            _draggingRoot.CurrentDragComponent.GetComponent<MiniCard>().SetGraphicState(true);
+            _draggingRoot.CurDragComponent.GetComponent<MiniCard>().SetGraphicState(true);
         }
+       
     }
 
-    private void ExitArea()
+    public void ExitArea()
     {
-        if (_draggingRoot.CurrentDraggingCard == null)
-            return;
-
+        Debug.Log("ExitArea");
         _inArea = false;
-
-        if(_draggingRoot.CurrentDragComponent.Card.SizeType == SizeType.MiniCard)
-            _draggingRoot.CurrentDragComponent.GetComponent<MiniCard>().SetGraphicState(false);
-
-        var model = _draggingRoot.CurrentDraggingCard.Model;
-        var card = _cardPoolMgr.Spawn(((CardType)model.Type).ToString(), _draggingRoot.transform);
-        card.GetComponent<ICard>().Init(SizeType.NormalCard, model);
-        _draggingRoot.SetDraggingCard(card);
+        var card = _poolMgr.Spwan(_draggingRoot.CurDraggingCard.Type.ToString(), _draggingRoot.transform);
+        _poolMgr.Despwan(SizeType.MiniCard.ToString(), _draggingRoot.CurDraggingCardTrans);
+        _draggingRoot.SetDraggingCard(card, _draggingRoot.CurDragComponent);
     }
 
     public void EndDrag()
     {
         if (_inArea)
         {
-            var model = _draggingRoot.CurrentDraggingCard.Model;
-            var card = _cardPoolMgr.Spawn(SizeType.MiniCard.ToString(), transform.Find("Viewport/Content"));
-            card.GetComponent<ICard>().Init(SizeType.MiniCard,model);
-            card.GetComponent<MiniCard>().SetGraphicState(true);
-            card.GetComponent<Image>().raycastTarget = true;
-            _draggingRoot.End();
+            var model = _draggingRoot.CurDraggingCard.Model;
+            var card = _poolMgr.Spwan(SizeType.MiniCard.ToString(), _content);
+            card.GetComponent<ICard>().Init(model);
+            card.GetComponent<DragCardBase>().Init(_poolMgr, _draggingRoot);
+            _poolMgr.Despwan(SizeType.MiniCard.ToString(), _draggingRoot.CurDraggingCardTrans);
         }
-        _inArea = false;
     }
 }

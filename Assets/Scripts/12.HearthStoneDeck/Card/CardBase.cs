@@ -1,21 +1,23 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 using UnityEngine.UI;
 
-public abstract class CardBase : MonoBehaviour, ICard
+public abstract class CardBase : MonoBehaviour,ICard
 {
-    public CardType CardType { get; private set; }
     public CardModel Model { get; private set; }
-    public SizeType SizeType { get; private set; }
-    public RectTransform Rect { get; private set; }
+    public CardType Type { get; private set; }
+    public SizeType Size {
+        get { return SizeType.NormalCard;}
+    }
 
-    public virtual void Init(SizeType size, CardModel model)
+    public virtual void Init(CardModel model)
     {
-        SizeType = size;
         Model = model;
-        Rect = GetComponent<RectTransform>();
-        CardType = (CardType)model.Type;
+        Type = (CardType) model.Type;
+
         InitIcon(model.SpriteName);
-        InitRarity((RarityType)model.RarityType);
+        InitRarity((RarityType) model.RarityType);
         InitName(model.Name);
         InitCost(model.Cost);
     }
@@ -25,10 +27,15 @@ public abstract class CardBase : MonoBehaviour, ICard
         GetIconImage().sprite = Resources.Load<Sprite>("Card/" + spriteName);
     }
 
+    protected abstract Image GetIconImage();
+
     private void InitRarity(RarityType rarity)
     {
-        transform.Find("Rarity").GetComponent<Image>().sprite = GetRatitySprite(rarity);
+        transform.Find("Rarity").GetComponent<Image>().sprite = GetRaritySprite(rarity);
     }
+
+    protected abstract Sprite GetRaritySprite(RarityType rarity);
+
 
     private void InitName(string cardName)
     {
@@ -45,9 +52,4 @@ public abstract class CardBase : MonoBehaviour, ICard
         var sprites = Resources.LoadAll<Sprite>("Card/TextInlineImages");
         return sprites[cost];
     }
-
-    protected abstract Image GetIconImage();
-
-    protected abstract Sprite GetRatitySprite(RarityType rarity);
-   
 }

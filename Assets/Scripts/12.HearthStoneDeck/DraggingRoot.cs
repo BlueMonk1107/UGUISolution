@@ -1,69 +1,53 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class DraggingRoot : MonoBehaviour
 {
-    public RectTransform Rect { get; private set; }
-    public ICard CurrentDraggingCard { get; set; }
-    public Transform CurDraggingCardTrans { get; set; }
-    public DragCardBase CurrentDragComponent { get; set; }
+    public ICard CurDraggingCard { get; set; }
 
-    public Transform LastCard { get; set; }
+    public DragCardBase CurDragComponent { get; set; }
+
+    public Transform CurDraggingCardTrans { get; set; }
 
     public void Init()
     {
-        Rect = GetComponent<RectTransform>();
-    }
-    
-    public void End()
-    {
-        SetImageRaycastState(true);
-        CurrentDraggingCard = null;
-        CurrentDragComponent = null;
-        LastCard = null;
 
     }
 
-    public CardModel SetDraggingCard(Transform card)
+    public void SetDraggingCard(Transform card, DragCardBase dragCard)
     {
+        if(CurDraggingCardTrans != null)
+        {
+            SetCardRaycastState(true);
+        }
+
         CardModel model = new CardModel();
-        if (LastCard != null)
+        if (CurDraggingCard != null)
         {
-            model = LastCard.GetComponent<ICard>().Model;
+            model = CurDraggingCard.Model;
         }
 
-        if (LastCard != card)
-        {
-            CurrentDragComponent.EndDrag(false, LastCard);
-        }
-        else
-        {
-            SetImageRaycastState(true);
-        }
+        CurDraggingCardTrans = card;
+        CurDraggingCard = card.GetComponent<ICard>();
+        CurDragComponent = dragCard;
 
-        LastCard = card;
-        CurrentDraggingCard = card.GetComponent<ICard>();
-        InitDraggingCard(card);
-        SetImageRaycastState(false);
+        CurDraggingCard.Init(model);
 
-        return model;
+        SetCardRaycastState(false);
+        InitCard(card);
+
     }
 
-    private void InitDraggingCard(Transform card)
+    private void SetCardRaycastState(bool isReceive)
     {
-        CurDraggingCardTrans = card;
+        CurDraggingCardTrans.GetComponent<Image>().raycastTarget = isReceive;
+    }
+
+    private void InitCard(Transform card)
+    {
         card.SetParent(transform);
         card.localPosition = Vector3.zero;
-    }
-
-    private void SetImageRaycastState(bool isReceive)
-    {
-        if (LastCard == null)
-            return;
-
-        LastCard.GetComponent<Image>().raycastTarget = isReceive;
     }
 }

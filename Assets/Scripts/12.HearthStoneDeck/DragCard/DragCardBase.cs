@@ -1,41 +1,43 @@
 ﻿using System;
-using DG.Tweening;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public abstract class DragCardBase : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
+public abstract class DragCardBase : MonoBehaviour,IBeginDragHandler,IDragHandler,IEndDragHandler
 {
+    protected CardPoolMgr _poolMgr;
     public ICard Card { get; private set; }
     protected DraggingRoot _draggingRoot;
-    protected CardPoolMgr _cardPoolMgr;
-    protected Action _endDrag;
+    protected Action _onEnd;
 
-    public virtual void Init(DraggingRoot draggingRoot, Action endDrag, CardPoolMgr cardPoolMgr)
+    public virtual void Init(CardPoolMgr poolMgr, DraggingRoot draggingRoot)
     {
+        _poolMgr = poolMgr;
         _draggingRoot = draggingRoot;
         Card = GetComponent<ICard>();
-        _cardPoolMgr = cardPoolMgr;
-        _endDrag = endDrag;
+        _onEnd = null;
     }
 
     public virtual void OnBeginDrag(PointerEventData eventData)
     {
         _draggingRoot.transform.position = Input.mousePosition;
-        _draggingRoot.CurrentDragComponent = this;
     }
 
     public virtual void OnDrag(PointerEventData eventData)
     {
-        _draggingRoot.Rect.anchoredPosition += eventData.delta;
+        _draggingRoot.GetComponent<RectTransform>().anchoredPosition += eventData.delta;
     }
 
-    public void OnEndDrag(PointerEventData eventData)
+    public virtual void OnEndDrag(PointerEventData eventData)
     {
-        EndDrag(true, _draggingRoot.LastCard);
+        if (_onEnd != null)
+            _onEnd();
     }
 
-    public virtual void EndDrag(bool isEnd,Transform lastCard)
+    public void AddEndListener(Action end)
     {
+        _onEnd = end;
     }
 }

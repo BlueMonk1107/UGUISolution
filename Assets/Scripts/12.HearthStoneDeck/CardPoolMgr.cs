@@ -7,90 +7,45 @@ public class CardPoolMgr
 {
     private Dictionary<string, CardPool> _pools;
 
-
     public CardPoolMgr(Transform root)
     {
         _pools = new Dictionary<string, CardPool>();
+
         Transform parent = new GameObject("Cache").AddComponent<RectTransform>();
         parent.SetParent(root);
         parent.gameObject.SetActive(false);
 
-        string prefabName = CardType.MagicCard.ToString();
+        AddPool(CardType.MagicCard.ToString(), parent, typeof (MagicCard), typeof (DragNormalCard));
+
+        AddPool(CardType.MinionCard.ToString(), parent, typeof(MinionCard), typeof(DragNormalCard));
+
+        AddPool(SizeType.MiniCard.ToString(), parent, typeof(MiniCard), typeof(DragMiniCard));
+    }
+
+    private void AddPool(string prefabName,Transform parent,params Type[] component)
+    {
         GameObject prefab = Resources.Load<GameObject>(prefabName);
-        _pools[prefabName] = (new CardPool(prefab, parent, typeof(MagicCard),typeof(DragNormalCard)));
-
-        prefabName = CardType.MinionCard.ToString();
-        prefab = Resources.Load<GameObject>(prefabName);
-        _pools[prefabName] = new CardPool(prefab, parent, typeof(MinionCard), typeof(DragNormalCard));
-
-        prefabName = SizeType.MiniCard.ToString();
-        prefab = Resources.Load<GameObject>(prefabName);
-        _pools[prefabName] = new CardPool(prefab, parent, typeof(MiniCard), typeof(DragMiniCard));
+        _pools[prefabName] = new CardPool(parent, prefab.transform, component);
     }
 
-    public Transform Spawn(string type,Transform parent)
+    public Transform Spwan(string type, Transform parent)
     {
-        return _pools[type].Spawn(parent);
-    }
-
-    public void Despawn(string type,Transform cardTrans)
-    {
-        _pools[type].Despawn(cardTrans);
-    }
-}
-
-public class CardPool
-{
-    private List<Transform> _inactiveList;
-    private List<Transform> _activeList;
-    private Transform _parent;
-    private GameObject _prefab;
-    private Type[] _component;
-
-    public CardPool(GameObject prefab, Transform parent,params Type[] component)
-    {
-        _parent = parent;
-        _prefab = prefab;
-        _component = component;
-        _inactiveList = new List<Transform>();
-        _activeList = new List<Transform>();
-    }
-
-    private Transform SpawnNew()
-    {
-        GameObject go = UnityEngine.Object.Instantiate(_prefab, _parent);
-        foreach (Type type in _component)
+        if (_pools.ContainsKey(type))
         {
-            go.AddComponent(type);
-        }
-        return go.transform;
-    }
-
-    public Transform Spawn(Transform parent)
-    {
-        Transform card = null;
-        if (_inactiveList.Count > 0)
-        {
-            card = _inactiveList[0];
-            _inactiveList.Remove(card);
+            return _pools[type].Spawn(parent);
         }
         else
         {
-            card = SpawnNew();
+            Debug.LogError(type+"找不到对应池");
+            return null;
         }
-
-        card.SetParent(parent);
-        _activeList.Add(card);
-        return card;
     }
 
-    public void Despawn(Transform card)
+    public void Despwan(string type, Transform card)
     {
-        if (_activeList.Contains(card))
+        if (_pools.ContainsKey(type))
         {
-            card.transform.SetParent(_parent);
-            _activeList.Remove(card);
-            _inactiveList.Add(card);
+            _pools[type].Despwan(card);
         }
     }
 }

@@ -10,7 +10,7 @@ public class MagicCard : CardBase
         return transform.Find("Icon").GetComponent<Image>();
     }
 
-    protected override Sprite GetRatitySprite(RarityType rarity)
+    protected override Sprite GetRaritySprite(RarityType rarity)
     {
         var sprites = Resources.LoadAll<Sprite>("Card/Card_Inhand_Ability_Druid");
         switch (rarity)

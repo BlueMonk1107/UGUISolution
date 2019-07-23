@@ -1,29 +1,23 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
 public class CardLibrary : MonoBehaviour
 {
-    private CardPage _cardPage;
-    private DeckList _deckList;
-    private CardPoolMgr _cardPoolMgr;
-    private DraggingRoot _draggingRoot;
     private int _cardNumMax = 8;
 
     // Start is called before the first frame update
     void Start()
     {
-        _cardPoolMgr = new CardPoolMgr(transform);
-
-        _cardPage = transform.Find("CardPage").gameObject.AddComponent<CardPage>();
-        _deckList = transform.Find("DeckArea/DeckList").gameObject.AddComponent<DeckList>();
-        _draggingRoot = transform.Find("DraggingRoot").gameObject.AddComponent<DraggingRoot>();
+        CardPoolMgr poolMgr = new CardPoolMgr(transform);
+        CardPage cardPage = transform.Find("CardPage").gameObject.AddComponent<CardPage>();
+        DeckList deckList = transform.Find("DeckArea/DeckList").gameObject.AddComponent<DeckList>();
         DeckListArea area = transform.Find("DeckArea").gameObject.AddComponent<DeckListArea>();
+        DraggingRoot draggingRoot = transform.Find("DraggingRoot").gameObject.AddComponent<DraggingRoot>();
 
-        _draggingRoot.Init();
-        _deckList.Init(_cardPoolMgr, _draggingRoot, area);
-        _cardPage.Init(_cardNumMax, _cardPoolMgr, _draggingRoot);
-
-        _cardPage.AddEndDragListener(_deckList.EndDrag);
+        area.Init(deckList.EnterArea, deckList.ExitArea);
+        deckList.Init(poolMgr, draggingRoot);
+        draggingRoot.Init();
+        cardPage.Init(_cardNumMax, poolMgr, draggingRoot);
+        cardPage.AddEndListener(deckList.EndDrag);
     }
 }

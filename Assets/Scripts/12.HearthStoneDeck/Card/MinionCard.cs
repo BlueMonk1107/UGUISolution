@@ -6,9 +6,9 @@ using UnityEngine.UI;
 
 public class MinionCard : CardBase
 {
-    public override void Init(SizeType size, CardModel model)
+    public override void Init(CardModel model)
     {
-        base.Init(size,model);
+        base.Init(model);
         InitAttack(model.Attack);
         InitLife(model.Life);
     }
@@ -28,7 +28,7 @@ public class MinionCard : CardBase
         return transform.Find("IconMask/Icon").GetComponent<Image>();
     }
 
-    protected override Sprite GetRatitySprite(RarityType rarity)
+    protected override Sprite GetRaritySprite(RarityType rarity)
     {
         var sprites = Resources.LoadAll<Sprite>("Card/Card_Inhand_Minion_Paladin");
         switch (rarity)

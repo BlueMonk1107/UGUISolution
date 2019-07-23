@@ -17,17 +17,13 @@ public class DeckListArea : MonoBehaviour,IPointerEnterHandler,IPointerExitHandl
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        if (eventData.pointerDrag != null && eventData.dragging)
-        {
+        if (_enter != null && eventData.pointerEnter!= null && eventData.dragging)
             _enter();
-        }
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        if (eventData.pointerDrag != null)
-        {
+        if (_exit != null && eventData.pointerEnter != null && eventData.dragging)
             _exit();
-        }
     }
 }
