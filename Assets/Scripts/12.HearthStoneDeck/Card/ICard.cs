@@ -11,4 +11,6 @@ public interface ICard
     SizeType Size { get; }
 
     void Init(CardModel model);
+
+    void SetRaycastState(bool isReceive);
 }

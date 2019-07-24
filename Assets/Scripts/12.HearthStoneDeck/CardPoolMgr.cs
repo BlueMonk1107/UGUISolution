@@ -15,11 +15,11 @@ public class CardPoolMgr
         parent.SetParent(root);
         parent.gameObject.SetActive(false);
 
-        AddPool(CardType.MagicCard.ToString(), parent, typeof (MagicCard), typeof (DragNormalCard));
+        AddPool(CardType.MagicCard.ToString(), parent, typeof (MagicCard), typeof (DragNormalCard),typeof(NormalCardAreaAction));
 
-        AddPool(CardType.MinionCard.ToString(), parent, typeof(MinionCard), typeof(DragNormalCard));
+        AddPool(CardType.MinionCard.ToString(), parent, typeof(MinionCard), typeof(DragNormalCard), typeof(NormalCardAreaAction));
 
-        AddPool(SizeType.MiniCard.ToString(), parent, typeof(MiniCard), typeof(DragMiniCard));
+        AddPool(SizeType.MiniCard.ToString(), parent, typeof(MiniCard), typeof(DragMiniCard), typeof(MiniCardAreaAction));
     }
 
     private void AddPool(string prefabName,Transform parent,params Type[] component)

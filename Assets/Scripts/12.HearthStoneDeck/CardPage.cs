@@ -32,6 +32,7 @@ public class CardPage : MonoBehaviour
                 DragCardBase dragCard = cardTrans.GetComponent<DragCardBase>();
                 dragCard.Init(_poolMg, _draggingRoot);
                 dragCard.AddEndListener(()=> _onEnd());
+                cardTrans.GetComponent<IAreaAction>().Init(_poolMg,_draggingRoot);
             }
         }
     }

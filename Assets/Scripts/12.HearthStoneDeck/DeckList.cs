@@ -21,30 +21,14 @@ public class DeckList : MonoBehaviour
     {
         Debug.Log("EnterArea");
         _inArea = true;
-        var size = _draggingRoot.CurDraggingCard.Size;
-        if (size == SizeType.NormalCard && _draggingRoot.CurDragComponent.Card.Size == SizeType.NormalCard)
-        {
-            var miniCard = _poolMgr.Spwan(SizeType.MiniCard.ToString(), _draggingRoot.transform);
-            _poolMgr.Despwan(_draggingRoot.CurDraggingCard.Type.ToString(), _draggingRoot.CurDraggingCardTrans);
-            _draggingRoot.SetDraggingCard(miniCard, _draggingRoot.CurDragComponent);
-        }
-        else
-        {
-            if(_draggingRoot.CurDraggingCard.Size == SizeType.NormalCard)
-                _poolMgr.Despwan(_draggingRoot.CurDraggingCard.Type.ToString(), _draggingRoot.CurDraggingCardTrans);
-
-            _draggingRoot.CurDragComponent.GetComponent<MiniCard>().SetGraphicState(true);
-        }
-       
+        _draggingRoot.CurAreaAction.EnterArea();
     }
 
     public void ExitArea()
     {
         Debug.Log("ExitArea");
         _inArea = false;
-        var card = _poolMgr.Spwan(_draggingRoot.CurDraggingCard.Type.ToString(), _draggingRoot.transform);
-        _poolMgr.Despwan(SizeType.MiniCard.ToString(), _draggingRoot.CurDraggingCardTrans);
-        _draggingRoot.SetDraggingCard(card, _draggingRoot.CurDragComponent);
+        _draggingRoot.CurAreaAction.ExitArea();
     }
 
     public void EndDrag()
@@ -54,8 +38,13 @@ public class DeckList : MonoBehaviour
             var model = _draggingRoot.CurDraggingCard.Model;
             var card = _poolMgr.Spwan(SizeType.MiniCard.ToString(), _content);
             card.GetComponent<ICard>().Init(model);
-            card.GetComponent<DragCardBase>().Init(_poolMgr, _draggingRoot);
+            card.GetComponent<IAreaAction>().Init(_poolMgr,_draggingRoot);
+            DragCardBase dragCard = card.GetComponent<DragCardBase>();
+            dragCard.Init(_poolMgr, _draggingRoot);
+            dragCard.AddEndListener(EndDrag);
             _poolMgr.Despwan(SizeType.MiniCard.ToString(), _draggingRoot.CurDraggingCardTrans);
+            _draggingRoot.Clear();
         }
+        _inArea = false;
     }
 }

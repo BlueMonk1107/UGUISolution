@@ -11,6 +11,19 @@ public abstract class CardBase : MonoBehaviour,ICard
         get { return SizeType.NormalCard;}
     }
 
+    private Image _image;
+
+    public Image RaycasetImage
+    {
+        get
+        {
+            if (_image == null)
+                _image = GetComponent<Image>();
+
+            return _image;
+        }
+    }
+
     public virtual void Init(CardModel model)
     {
         Model = model;
@@ -20,6 +33,12 @@ public abstract class CardBase : MonoBehaviour,ICard
         InitRarity((RarityType) model.RarityType);
         InitName(model.Name);
         InitCost(model.Cost);
+        SetRaycastState(true);
+    }
+
+    public void SetRaycastState(bool isReceive)
+    {
+        RaycasetImage.raycastTarget = isReceive;
     }
 
     private void InitIcon(string spriteName)
