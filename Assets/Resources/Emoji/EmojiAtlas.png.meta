@@ -1,0 +1,1744 @@
+fileFormatVersion: 2
+guid: 8a567ba7823ca9844b81247fa2c72d17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2692325148598959924
+    second: EmojiAtlas_0
+  - first:
+      213: 3996829867858909052
+    second: EmojiAtlas_1
+  - first:
+      213: -1755450714580622339
+    second: EmojiAtlas_2
+  - first:
+      213: -4340669745533097111
+    second: EmojiAtlas_3
+  - first:
+      213: -2991337711363536791
+    second: EmojiAtlas_4
+  - first:
+      213: -9110664782335822640
+    second: EmojiAtlas_5
+  - first:
+      213: 817583665867357968
+    second: EmojiAtlas_6
+  - first:
+      213: -807054896931133688
+    second: EmojiAtlas_7
+  - first:
+      213: 2336974917679666639
+    second: EmojiAtlas_8
+  - first:
+      213: -8658682647255332986
+    second: EmojiAtlas_9
+  - first:
+      213: -79882621881518320
+    second: EmojiAtlas_10
+  - first:
+      213: 3495607181948220644
+    second: EmojiAtlas_11
+  - first:
+      213: -6777540522354693473
+    second: EmojiAtlas_12
+  - first:
+      213: 4388226031965476464
+    second: EmojiAtlas_13
+  - first:
+      213: 4840056396631079184
+    second: EmojiAtlas_14
+  - first:
+      213: 2056061434543197312
+    second: EmojiAtlas_15
+  - first:
+      213: -6295741656577586900
+    second: EmojiAtlas_16
+  - first:
+      213: -1923986715893304570
+    second: EmojiAtlas_17
+  - first:
+      213: -2170525997490276153
+    second: EmojiAtlas_18
+  - first:
+      213: -2845976040875288016
+    second: EmojiAtlas_19
+  - first:
+      213: 6693059792266861426
+    second: EmojiAtlas_20
+  - first:
+      213: 6206733329542389766
+    second: EmojiAtlas_21
+  - first:
+      213: -3877625191841749156
+    second: EmojiAtlas_22
+  - first:
+      213: 1738553112258723515
+    second: EmojiAtlas_23
+  - first:
+      213: -4639121214179917417
+    second: EmojiAtlas_24
+  - first:
+      213: 3816586495019027347
+    second: EmojiAtlas_25
+  - first:
+      213: -7490279491618704447
+    second: EmojiAtlas_26
+  - first:
+      213: 8579987319822133922
+    second: EmojiAtlas_27
+  - first:
+      213: -6011681639396903944
+    second: EmojiAtlas_28
+  - first:
+      213: -4252116767487859477
+    second: EmojiAtlas_29
+  - first:
+      213: 3561544780645665698
+    second: EmojiAtlas_30
+  - first:
+      213: 3372034359122557003
+    second: EmojiAtlas_31
+  - first:
+      213: 7063712062033907643
+    second: EmojiAtlas_32
+  - first:
+      213: 3086585162384077641
+    second: EmojiAtlas_33
+  - first:
+      213: -9116148727968724365
+    second: EmojiAtlas_34
+  - first:
+      213: 9137346015337501167
+    second: EmojiAtlas_35
+  - first:
+      213: -8388122280820335024
+    second: EmojiAtlas_36
+  - first:
+      213: 8715084203618093973
+    second: EmojiAtlas_37
+  - first:
+      213: -2785705488988868900
+    second: EmojiAtlas_38
+  - first:
+      213: 3602511991202438212
+    second: EmojiAtlas_39
+  - first:
+      213: -7815686375505708912
+    second: EmojiAtlas_40
+  - first:
+      213: 2421355650162659586
+    second: EmojiAtlas_41
+  - first:
+      213: -7964173657384073703
+    second: EmojiAtlas_42
+  - first:
+      213: -2613333409412840162
+    second: EmojiAtlas_43
+  - first:
+      213: 1230813765325260513
+    second: EmojiAtlas_44
+  - first:
+      213: -5028231653190377360
+    second: EmojiAtlas_45
+  - first:
+      213: -6575388072487747103
+    second: EmojiAtlas_46
+  - first:
+      213: -722296049844983741
+    second: EmojiAtlas_47
+  - first:
+      213: 6472005403141420826
+    second: EmojiAtlas_48
+  - first:
+      213: -976273641959261127
+    second: EmojiAtlas_49
+  - first:
+      213: -4744445387888749704
+    second: EmojiAtlas_50
+  - first:
+      213: -4738013425990440846
+    second: EmojiAtlas_51
+  - first:
+      213: -909219718500524824
+    second: EmojiAtlas_52
+  - first:
+      213: 6769109235880924749
+    second: EmojiAtlas_53
+  - first:
+      213: -76849372399123772
+    second: EmojiAtlas_54
+  - first:
+      213: 1446656056108643371
+    second: EmojiAtlas_55
+  - first:
+      213: -479596192483841687
+    second: EmojiAtlas_56
+  - first:
+      213: -1320390226986342959
+    second: EmojiAtlas_57
+  - first:
+      213: -1672116689126537220
+    second: EmojiAtlas_59
+  - first:
+      213: 1406396469390176230
+    second: EmojiAtlas_60
+  - first:
+      213: -8983712509611429339
+    second: EmojiAtlas_61
+  - first:
+      213: -4040443686491066817
+    second: EmojiAtlas_62
+  - first:
+      213: -3399884979327716703
+    second: EmojiAtlas_63
+  - first:
+      213: 1320673074531217036
+    second: EmojiAtlas_64
+  - first:
+      213: 3715822846278708355
+    second: EmojiAtlas_65
+  - first:
+      213: 7011086762792958048
+    second: EmojiAtlas_66
+  - first:
+      213: -3258928671329000033
+    second: EmojiAtlas_67
+  - first:
+      213: 7992211508745216795
+    second: EmojiAtlas_58
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EmojiAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 450
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406a196a11510db43ac4a0ec8c49c992
+      internalID: 2692325148598959924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 450
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e420f4d8633a6b44a9fafd196b5a001
+      internalID: 3996829867858909052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 450
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddda6aac7acfeef4e89e48993ac97cfa
+      internalID: -1755450714580622339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 450
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ba522f25256354b923779a6ae2280f
+      internalID: -4340669745533097111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 450
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae755d3bcb3195e408aa67fd9415c35e
+      internalID: -2991337711363536791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 450
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba82aca8a439d43b4e5d79be9e6f70
+      internalID: -9110664782335822640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 450
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba6dbf04a735344d89a8e4b9c0b1242
+      internalID: 817583665867357968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 450
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ecbce87889a7f42aa77c92d0ad035e
+      internalID: -807054896931133688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 450
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21200af1d939e65479be8ff900493c53
+      internalID: 2336974917679666639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 450
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db13d377ea6873b4385d2f3c78d4fcc3
+      internalID: -8658682647255332986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 450
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3f7396c0c6fad4594409362b475361
+      internalID: -79882621881518320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 385
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d50e21c7568304cbd1393ea76d0daf
+      internalID: 3495607181948220644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 385
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bda8d667e613384d87e9e5781f30cc4
+      internalID: -6777540522354693473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 385
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daa8ac6364bca747a1bab07b7546442
+      internalID: 4388226031965476464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 385
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6025181ca0c7a34b8f5c31510eb227e
+      internalID: 4840056396631079184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 385
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad27377cc89a01e41b3c02ca302ff79b
+      internalID: 2056061434543197312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 385
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe34eac08cf4384eab29a7e53f0c410
+      internalID: -6295741656577586900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 385
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2e6730dd07e69459d1e36a90ad02fa
+      internalID: -1923986715893304570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 385
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27116522c78917c4fabcf0f668782034
+      internalID: -2170525997490276153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 385
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3aed1a93e97754abac54cd1b5d5ef1
+      internalID: -2845976040875288016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 385
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d06f25cc122d247ab4814f108f3e5f
+      internalID: 6693059792266861426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 385
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d538ebc2a885dd54e84e69ffe3377977
+      internalID: 6206733329542389766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 320
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fc5d9ed6334204995938782af31e96
+      internalID: -3877625191841749156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 320
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15a4dcc62469e34cb761b1e53b263e2
+      internalID: 1738553112258723515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 320
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14789f808c1ad94d8eaa9bbae163576
+      internalID: -4639121214179917417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 320
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50ddbb5d73e6e0478d26d6c794d6c7b
+      internalID: 3816586495019027347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 320
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cc891f2eff2954487a77a443dd61f2
+      internalID: -7490279491618704447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 320
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60a8dd811130284a95d4b2e2c8b09fb
+      internalID: 8579987319822133922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 320
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaef16c9f1a45644a46afc4cb4dadf1
+      internalID: -6011681639396903944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 320
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe730ba549b19684585600d24d5b7e14
+      internalID: -4252116767487859477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 320
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2978ee65e7d13a446ab918252508470b
+      internalID: 3561544780645665698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 320
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2b7e1110108ee48bd3c492c0f46a3f
+      internalID: 3372034359122557003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 320
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208b379851e94f74aad6f42197efd6a1
+      internalID: 7063712062033907643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 255
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d29c53527667644ab2496b61293d99c
+      internalID: 3086585162384077641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 253
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ff30d1272a8342880ab27fd11a55a
+      internalID: -9116148727968724365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 255
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f08e461eae982429d7386c5e76e8d6
+      internalID: 9137346015337501167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 255
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1541e07b48d4dde46b30ba85beca04be
+      internalID: -8388122280820335024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 255
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb07072cb153104098cb60808824cc5
+      internalID: 8715084203618093973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 253
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa5c2a2849cbd4a89981751d5600b9
+      internalID: -2785705488988868900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 253
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdc53fa56c24ad42ad43460c80ad8f8
+      internalID: 3602511991202438212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 253
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff55d938f7d0dcd488c753081ddcf6de
+      internalID: -7815686375505708912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 255
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ba88d4daffa37449080ae9953a9d43
+      internalID: 2421355650162659586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 255
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddb184daa8a9634ca700ff62cfc1a80
+      internalID: -7964173657384073703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 255
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be9ac697ede324c9135bfb746dc130
+      internalID: -2613333409412840162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 190
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764bb8c7442ab1248800f850779f8111
+      internalID: 1230813765325260513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 190
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ca3ce167d97e4186410e513986587
+      internalID: -5028231653190377360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 190
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957f3898605c0f342801c7df1688d1a5
+      internalID: -6575388072487747103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 190
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96de7b598e8884f4e9918eefd7c64af8
+      internalID: -722296049844983741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_48
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 190
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083a7d541ea0f264c9f6d4c6d5ca36ea
+      internalID: 6472005403141420826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_49
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 190
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0965313789793488a975c6cd9d14dd
+      internalID: -976273641959261127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_50
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 190
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5991aca006ebb004692d877141a39080
+      internalID: -4744445387888749704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 190
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4479ad59e2b7e44819f5ff8d39f9c5
+      internalID: -4738013425990440846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 190
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becbf16d4c46f414c9d302fbf252161f
+      internalID: -909219718500524824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_53
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 188
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db1e97e8d4b874793d478b5d14ebee
+      internalID: 6769109235880924749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_54
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 190
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa2898e66fa43a4f8456754810cc209
+      internalID: -76849372399123772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_55
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 124
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee642fa8daaefb4cad77d5ba970277d
+      internalID: 1446656056108643371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_56
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 125
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759033f42a4087043850b1eaa4ea28aa
+      internalID: -479596192483841687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 125
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfa3517f3949da4caafbe12b2d0e1e3
+      internalID: -1320390226986342959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_59
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 125
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a892a5aebf6904ca21443100f2338a
+      internalID: -1672116689126537220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_60
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 125
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a23f9fe0db2de44a1a928ddedbac9c
+      internalID: 1406396469390176230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_61
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 123
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c816f03e530345f47b71b5d57c6f88ce
+      internalID: -8983712509611429339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_62
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 123
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552aabf02fc9dd24f8fb109838a581a4
+      internalID: -4040443686491066817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_63
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 125
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d90052570ad2c448c48276849f757d
+      internalID: -3399884979327716703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_64
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 125
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14662d732d2c7694a8aaa0a7f23c3a7a
+      internalID: 1320673074531217036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_65
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 125
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463d3dc148df13d428a358f09f47f1bf
+      internalID: 3715822846278708355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_66
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 59
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d521932e6022a784cb230bb2f22477f6
+      internalID: 7011086762792958048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_67
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 60
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae91a85225edf74fa99e5acb4992f7b
+      internalID: -3258928671329000033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiAtlas_58
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 125
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b188374d35c8144391ee9e14f0f71c3
+      internalID: 7992211508745216795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e1f7d438346ea994d8ab626fc1f31fc7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

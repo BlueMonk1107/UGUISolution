@@ -121,13 +121,13 @@ TextureImporter:
         width: 105
         height: 89
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f95f17e0d892ea428f0084487d9eb46
+      spriteID: 50c435445503cba46970bd8837830cb4
       internalID: -1664194281123571199
       vertices: []
       indices: 
@@ -142,13 +142,13 @@ TextureImporter:
         width: 618
         height: 925
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d042b81a449e35e4ba33f95784e4655e
+      spriteID: ed71860f5a441a345aa9cd827a5844f9
       internalID: 4971348306339254833
       vertices: []
       indices: 
@@ -163,13 +163,13 @@ TextureImporter:
         width: 116
         height: 521
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c041cd38aed260745bb909ddb3024327
+      spriteID: 2314c12f0540edb41bde57934fb88ec8
       internalID: -6774312577213271394
       vertices: []
       indices: 
@@ -184,13 +184,13 @@ TextureImporter:
         width: 104
         height: 88
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2034c73522cff347877b5b0fdcbe069
+      spriteID: c920460f7bbc4414892d5f867df02eb6
       internalID: 9076359030999891988
       vertices: []
       indices: 
@@ -205,13 +205,13 @@ TextureImporter:
         width: 103
         height: 88
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bef2b1be0eca1f44ad9f2858909c8c3
+      spriteID: 47ac9e876a52ec24b80bda75a899bb37
       internalID: 1643304846646870978
       vertices: []
       indices: 
@@ -221,18 +221,18 @@ TextureImporter:
       name: Card_Inhand_Minion_Paladin_5
       rect:
         serializedVersion: 2
-        x: 59
-        y: 351
+        x: 58
+        y: 352
         width: 104
         height: 88
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e20058716b8078d4691946a6e7a0d689
+      spriteID: ee5a53e044f0d2f479e304a8fea883ad
       internalID: 8018963465991325575
       vertices: []
       indices: 
