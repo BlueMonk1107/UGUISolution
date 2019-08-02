@@ -9,3 +9,6 @@
 /obj
 /Assembly-CSharp.csproj
 /Temp
+/.idea/.idea.UGUISolution
+/.vscode/*.json
+/*.csproj

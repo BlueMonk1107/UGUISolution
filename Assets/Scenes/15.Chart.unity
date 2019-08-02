@@ -1,0 +1,2923 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!29 &1
+OcclusionCullingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_OcclusionBakeSettings:
+    smallestOccluder: 5
+    smallestHole: 0.25
+    backfaceThreshold: 100
+  m_SceneGUID: 00000000000000000000000000000000
+  m_OcclusionCullingData: {fileID: 0}
+--- !u!104 &2
+RenderSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 9
+  m_Fog: 0
+  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_FogMode: 3
+  m_FogDensity: 0.01
+  m_LinearFogStart: 0
+  m_LinearFogEnd: 300
+  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+  m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  m_AmbientIntensity: 1
+  m_AmbientMode: 0
+  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_HaloStrength: 0.5
+  m_FlareStrength: 1
+  m_FlareFadeSpeed: 3
+  m_HaloTexture: {fileID: 0}
+  m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
+  m_DefaultReflectionMode: 0
+  m_DefaultReflectionResolution: 128
+  m_ReflectionBounces: 1
+  m_ReflectionIntensity: 1
+  m_CustomReflection: {fileID: 0}
+  m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_UseRadianceAmbientProbe: 0
+--- !u!157 &3
+LightmapSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 11
+  m_GIWorkflowMode: 1
+  m_GISettings:
+    serializedVersion: 2
+    m_BounceScale: 1
+    m_IndirectOutputScale: 1
+    m_AlbedoBoost: 1
+    m_EnvironmentLightingMode: 0
+    m_EnableBakedLightmaps: 1
+    m_EnableRealtimeLightmaps: 1
+  m_LightmapEditorSettings:
+    serializedVersion: 12
+    m_Resolution: 2
+    m_BakeResolution: 40
+    m_AtlasSize: 1024
+    m_AO: 0
+    m_AOMaxDistance: 1
+    m_CompAOExponent: 1
+    m_CompAOExponentDirect: 0
+    m_ExtractAmbientOcclusion: 0
+    m_Padding: 2
+    m_LightmapParameters: {fileID: 0}
+    m_LightmapsBakeMode: 1
+    m_TextureCompression: 1
+    m_FinalGather: 0
+    m_FinalGatherFiltering: 1
+    m_FinalGatherRayCount: 256
+    m_ReflectionCompression: 2
+    m_MixedBakeMode: 2
+    m_BakeBackend: 1
+    m_PVRSampling: 1
+    m_PVRDirectSampleCount: 32
+    m_PVRSampleCount: 512
+    m_PVRBounces: 2
+    m_PVREnvironmentSampleCount: 256
+    m_PVREnvironmentReferencePointCount: 2048
+    m_PVRFilteringMode: 1
+    m_PVRDenoiserTypeDirect: 1
+    m_PVRDenoiserTypeIndirect: 1
+    m_PVRDenoiserTypeAO: 1
+    m_PVRFilterTypeDirect: 0
+    m_PVRFilterTypeIndirect: 0
+    m_PVRFilterTypeAO: 0
+    m_PVREnvironmentMIS: 1
+    m_PVRCulling: 1
+    m_PVRFilteringGaussRadiusDirect: 1
+    m_PVRFilteringGaussRadiusIndirect: 5
+    m_PVRFilteringGaussRadiusAO: 2
+    m_PVRFilteringAtrousPositionSigmaDirect: 0.5
+    m_PVRFilteringAtrousPositionSigmaIndirect: 2
+    m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ShowResolutionOverlay: 1
+    m_ExportTrainingData: 0
+  m_LightingDataAsset: {fileID: 0}
+  m_UseShadowmask: 1
+--- !u!196 &4
+NavMeshSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_BuildSettings:
+    serializedVersion: 2
+    agentTypeID: 0
+    agentRadius: 0.5
+    agentHeight: 2
+    agentSlope: 45
+    agentClimb: 0.4
+    ledgeDropHeight: 0
+    maxJumpAcrossDistance: 0
+    minRegionArea: 2
+    manualCellSize: 0
+    cellSize: 0.16666667
+    manualTileSize: 0
+    tileSize: 256
+    accuratePlacement: 0
+    debug:
+      m_Flags: 0
+  m_NavMeshData: {fileID: 0}
+--- !u!1 &491461254
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 491461255}
+  - component: {fileID: 491461258}
+  - component: {fileID: 491461257}
+  - component: {fileID: 491461256}
+  m_Layer: 5
+  m_Name: Bar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &491461255
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 491461254}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1578385681}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 580, y: 300}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &491461256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 491461254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 535d2697503c2a94a887354e22a5414d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_ChartWidth: 580
+  m_ChartHeight: 300
+  m_ThemeInfo:
+    m_Theme: 0
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_BackgroundColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    m_TextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_TitleSubTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_LegendTextColor:
+      serializedVersion: 2
+      rgba: 4293848814
+    m_LegendUnableColor:
+      serializedVersion: 2
+      rgba: 4291611852
+    m_AxisTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_AxisLineColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_AxisSplitLineColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_TooltipBackgroundColor:
+      serializedVersion: 2
+      rgba: 3360772433
+    m_TooltipFlagAreaColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_TooltipTextColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    m_TooltipLabelColor:
+      serializedVersion: 2
+      rgba: 4280887593
+    m_TooltipLineColor:
+      serializedVersion: 2
+      rgba: 1680419113
+    m_DataZoomTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_DataZoomLineColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_DataZoomSelectedColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_ColorPalette:
+    - serializedVersion: 2
+      rgba: 4281415106
+    - serializedVersion: 2
+      rgba: 4283712815
+    - serializedVersion: 2
+      rgba: 4289241185
+    - serializedVersion: 2
+      rgba: 4284842708
+    - serializedVersion: 2
+      rgba: 4289644433
+    - serializedVersion: 2
+      rgba: 4286816116
+    - serializedVersion: 2
+      rgba: 4280452810
+    - serializedVersion: 2
+      rgba: 4288324285
+    - serializedVersion: 2
+      rgba: 4285821038
+    - serializedVersion: 2
+      rgba: 4285556052
+    - serializedVersion: 2
+      rgba: 4292070596
+    m_CustomFont: {fileID: 0}
+    m_CustomBackgroundColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTitleSubTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomLegendTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomLegendUnableColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisSplitLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipBackgroundColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipFlagAreaColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipLabelColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomSelectedColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomColorPalette:
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+  m_Title:
+    m_Show: 1
+    m_Text: BarChart
+    m_TextFontSize: 16
+    m_SubText: 
+    m_SubTextFontSize: 14
+    m_ItemGap: 14
+    m_Location:
+      m_Align: 2
+      m_Left: 0
+      m_Right: 0
+      m_Top: 5
+      m_Bottom: 0
+  m_Legend:
+    m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 0
+    m_Orient: 0
+    m_Location:
+      m_Align: 2
+      m_Left: 0
+      m_Right: 0
+      m_Top: 30
+      m_Bottom: 0
+    m_ItemWidth: 60
+    m_ItemHeight: 20
+    m_ItemGap: 5
+    m_ItemFontSize: 16
+    m_Data:
+    - serie1
+  m_Tooltip:
+    m_Show: 1
+    m_Type: 1
+    m_Trigger: 0
+  m_Series:
+    m_JsonData: 
+    m_DataFromJson: 0
+    m_Series:
+    - m_JsonData: 
+      m_DataFromJson: 0
+      m_Show: 1
+      m_Type: 1
+      m_Selected: 0
+      m_Name: serie1
+      m_Stack: 
+      m_AxisIndex: 0
+      m_Symbol:
+        m_Type: 0
+        m_SizeType: 0
+        m_Size: 2.5
+        m_SelectedSize: 5
+        m_DataIndex: 1
+        m_DataScale: 1
+        m_SelectedDataScale: 1.5
+      m_ShowDataDimension: 0
+      m_ShowDataName: 0
+      m_YData:
+      - 80
+      - 32
+      - 25
+      - 61
+      - 27
+      m_XData:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      m_Data:
+      - m_Name: 
+        m_Data:
+        - 0
+        - 80
+      - m_Name: 
+        m_Data:
+        - 1
+        - 32
+      - m_Name: 
+        m_Data:
+        - 2
+        - 25
+      - m_Name: 
+        m_Data:
+        - 3
+        - 61
+      - m_Name: 
+        m_Data:
+        - 4
+        - 27
+    - m_JsonData: 
+      m_DataFromJson: 0
+      m_Show: 1
+      m_Type: 0
+      m_Selected: 0
+      m_Name: serie1
+      m_Stack: 
+      m_AxisIndex: 0
+      m_Symbol:
+        m_Type: 0
+        m_SizeType: 0
+        m_Size: 2.5
+        m_SelectedSize: 5
+        m_DataIndex: 1
+        m_DataScale: 1
+        m_SelectedDataScale: 1.5
+      m_ShowDataDimension: 0
+      m_ShowDataName: 0
+      m_YData:
+      - 80
+      - 32
+      - 25
+      - 61
+      - 27
+      m_XData:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      m_Data:
+      - m_Name: 
+        m_Data:
+        - 0
+        - 80
+      - m_Name: 
+        m_Data:
+        - 1
+        - 32
+      - m_Name: 
+        m_Data:
+        - 2
+        - 25
+      - m_Name: 
+        m_Data:
+        - 3
+        - 61
+      - m_Name: 
+        m_Data:
+        - 4
+        - 27
+  m_Large: 1
+  m_MinShowDataNumber: 0
+  m_MaxShowDataNumber: 0
+  m_MaxCacheDataNumber: 0
+  m_Coordinate:
+    m_Left: 50
+    m_Right: 30
+    m_Top: 50
+    m_Bottom: 30
+    m_Tickness: 0.6
+    m_FontSize: 16
+  m_XAxises:
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 1
+    m_Type: 1
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 1
+    m_Data:
+    - x1
+    - x2
+    - x3
+    - x4
+    - x5
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 0
+    m_Type: 1
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 1
+    m_Data: []
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  m_YAxises:
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 1
+    m_Type: 0
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 0
+    m_Data: []
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 0
+    m_Type: 0
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 0
+    m_Data: []
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  m_DataZoom:
+    m_Show: 0
+    m_Type: 1
+    m_FilterMode: 3
+    m_Orient: 0
+    m_XAxisIndex: 0
+    m_YAxisIndex: 0
+    m_ShowDataShadow: 1
+    m_ShowDetail: 0
+    m_ZoomLock: 0
+    m_Realtime: 1
+    m_BackgroundColor: {r: 0, g: 0, b: 0, a: 0}
+    m_Height: 50
+    m_Bottom: 10
+    m_RangeMode: 0
+    m_Start: 30
+    m_End: 70
+    m_StartValue: 0
+    m_EndValue: 0
+    m_ScrollSensitivity: 10
+  m_Bar:
+    m_InSameBar: 0
+    m_BarWidth: 0.2
+    m_Space: 0
+--- !u!114 &491461257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 491461254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aa991ba457284f4695fd25d90593a45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!222 &491461258
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 491461254}
+  m_CullTransparentMesh: 0
+--- !u!1 &537079173
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 537079176}
+  - component: {fileID: 537079175}
+  - component: {fileID: 537079174}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &537079174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 537079173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &537079175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 537079173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &537079176
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 537079173}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &566549298
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 566549299}
+  - component: {fileID: 566549302}
+  - component: {fileID: 566549301}
+  - component: {fileID: 566549300}
+  m_Layer: 5
+  m_Name: Line
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &566549299
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566549298}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1578385681}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 580, y: 300}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &566549300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566549298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4f38bd00b4648c448cabfc167538f7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_ChartWidth: 580
+  m_ChartHeight: 300
+  m_ThemeInfo:
+    m_Theme: 0
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_BackgroundColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    m_TextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_TitleSubTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_LegendTextColor:
+      serializedVersion: 2
+      rgba: 4293848814
+    m_LegendUnableColor:
+      serializedVersion: 2
+      rgba: 4291611852
+    m_AxisTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_AxisLineColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_AxisSplitLineColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_TooltipBackgroundColor:
+      serializedVersion: 2
+      rgba: 3360772433
+    m_TooltipFlagAreaColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_TooltipTextColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    m_TooltipLabelColor:
+      serializedVersion: 2
+      rgba: 4280887593
+    m_TooltipLineColor:
+      serializedVersion: 2
+      rgba: 1680419113
+    m_DataZoomTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_DataZoomLineColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_DataZoomSelectedColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_ColorPalette:
+    - serializedVersion: 2
+      rgba: 4281415106
+    - serializedVersion: 2
+      rgba: 4283712815
+    - serializedVersion: 2
+      rgba: 4289241185
+    - serializedVersion: 2
+      rgba: 4284842708
+    - serializedVersion: 2
+      rgba: 4289644433
+    - serializedVersion: 2
+      rgba: 4286816116
+    - serializedVersion: 2
+      rgba: 4280452810
+    - serializedVersion: 2
+      rgba: 4288324285
+    - serializedVersion: 2
+      rgba: 4285821038
+    - serializedVersion: 2
+      rgba: 4285556052
+    - serializedVersion: 2
+      rgba: 4292070596
+    m_CustomFont: {fileID: 0}
+    m_CustomBackgroundColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTitleSubTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomLegendTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomLegendUnableColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisSplitLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipBackgroundColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipFlagAreaColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipLabelColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomSelectedColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomColorPalette:
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+  m_Title:
+    m_Show: 1
+    m_Text: LineChart
+    m_TextFontSize: 16
+    m_SubText: 
+    m_SubTextFontSize: 14
+    m_ItemGap: 14
+    m_Location:
+      m_Align: 2
+      m_Left: 0
+      m_Right: 0
+      m_Top: 5
+      m_Bottom: 0
+  m_Legend:
+    m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 0
+    m_Orient: 0
+    m_Location:
+      m_Align: 2
+      m_Left: 0
+      m_Right: 0
+      m_Top: 30
+      m_Bottom: 0
+    m_ItemWidth: 60
+    m_ItemHeight: 20
+    m_ItemGap: 5
+    m_ItemFontSize: 16
+    m_Data:
+    - serie1
+  m_Tooltip:
+    m_Show: 1
+    m_Type: 0
+    m_Trigger: 0
+  m_Series:
+    m_JsonData: 
+    m_DataFromJson: 0
+    m_Series:
+    - m_JsonData: 
+      m_DataFromJson: 0
+      m_Show: 1
+      m_Type: 0
+      m_Selected: 0
+      m_Name: serie1
+      m_Stack: 
+      m_AxisIndex: 0
+      m_Symbol:
+        m_Type: 0
+        m_SizeType: 0
+        m_Size: 2.5
+        m_SelectedSize: 5
+        m_DataIndex: 1
+        m_DataScale: 1
+        m_SelectedDataScale: 1.5
+      m_ShowDataDimension: 0
+      m_ShowDataName: 0
+      m_YData:
+      - 27
+      - 75
+      - 66
+      - 38
+      - 44
+      m_XData:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      m_Data:
+      - m_Name: 
+        m_Data:
+        - 0
+        - 27
+      - m_Name: 
+        m_Data:
+        - 1
+        - 75
+      - m_Name: 
+        m_Data:
+        - 2
+        - 66
+      - m_Name: 
+        m_Data:
+        - 3
+        - 38
+      - m_Name: 
+        m_Data:
+        - 4
+        - 44
+  m_Large: 1
+  m_MinShowDataNumber: 0
+  m_MaxShowDataNumber: 0
+  m_MaxCacheDataNumber: 0
+  m_Coordinate:
+    m_Left: 50
+    m_Right: 30
+    m_Top: 50
+    m_Bottom: 30
+    m_Tickness: 0.6
+    m_FontSize: 16
+  m_XAxises:
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 1
+    m_Type: 1
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 1
+    m_Data:
+    - x1
+    - x2
+    - x3
+    - x4
+    - x5
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 0
+    m_Type: 1
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 1
+    m_Data: []
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  m_YAxises:
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 1
+    m_Type: 0
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 0
+    m_Data: []
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 0
+    m_Type: 0
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 0
+    m_Data: []
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  m_DataZoom:
+    m_Show: 0
+    m_Type: 1
+    m_FilterMode: 3
+    m_Orient: 0
+    m_XAxisIndex: 0
+    m_YAxisIndex: 0
+    m_ShowDataShadow: 1
+    m_ShowDetail: 0
+    m_ZoomLock: 0
+    m_Realtime: 1
+    m_BackgroundColor: {r: 0, g: 0, b: 0, a: 0}
+    m_Height: 50
+    m_Bottom: 10
+    m_RangeMode: 0
+    m_Start: 30
+    m_End: 70
+    m_StartValue: 0
+    m_EndValue: 0
+    m_ScrollSensitivity: 10
+  m_Line:
+    m_Tickness: 0.8
+    m_Smooth: 0
+    m_SmoothStyle: 2
+    m_Area: 1
+    m_Step: 0
+    m_StepType: 1
+--- !u!114 &566549301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566549298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 358c4b0d67228d64ca2b642c0fcec114, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!222 &566549302
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566549298}
+  m_CullTransparentMesh: 0
+--- !u!1 &584608558
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 584608561}
+  - component: {fileID: 584608560}
+  - component: {fileID: 584608559}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!81 &584608559
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584608558}
+  m_Enabled: 1
+--- !u!20 &584608560
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584608558}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &584608561
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584608558}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &617298691
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 617298692}
+  - component: {fileID: 617298694}
+  - component: {fileID: 617298693}
+  m_Layer: 5
+  m_Name: Scatter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &617298692
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 617298691}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1578385681}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 580, y: 300}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &617298693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 617298691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf16aac0bd6c24a8da75846c34c5193e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_ChartWidth: 580
+  m_ChartHeight: 300
+  m_ThemeInfo:
+    m_Theme: 0
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_BackgroundColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    m_TextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_TitleSubTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_LegendTextColor:
+      serializedVersion: 2
+      rgba: 4293848814
+    m_LegendUnableColor:
+      serializedVersion: 2
+      rgba: 4291611852
+    m_AxisTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_AxisLineColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_AxisSplitLineColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_TooltipBackgroundColor:
+      serializedVersion: 2
+      rgba: 3360772433
+    m_TooltipFlagAreaColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_TooltipTextColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    m_TooltipLabelColor:
+      serializedVersion: 2
+      rgba: 4280887593
+    m_TooltipLineColor:
+      serializedVersion: 2
+      rgba: 1680419113
+    m_DataZoomTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_DataZoomLineColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_DataZoomSelectedColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_ColorPalette:
+    - serializedVersion: 2
+      rgba: 4281415106
+    - serializedVersion: 2
+      rgba: 4283712815
+    - serializedVersion: 2
+      rgba: 4289241185
+    - serializedVersion: 2
+      rgba: 4284842708
+    - serializedVersion: 2
+      rgba: 4289644433
+    - serializedVersion: 2
+      rgba: 4286816116
+    - serializedVersion: 2
+      rgba: 4280452810
+    - serializedVersion: 2
+      rgba: 4288324285
+    - serializedVersion: 2
+      rgba: 4285821038
+    - serializedVersion: 2
+      rgba: 4285556052
+    - serializedVersion: 2
+      rgba: 4292070596
+    m_CustomFont: {fileID: 0}
+    m_CustomBackgroundColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTitleSubTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomLegendTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomLegendUnableColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisSplitLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipBackgroundColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipFlagAreaColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipLabelColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomSelectedColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomColorPalette:
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+  m_Title:
+    m_Show: 1
+    m_Text: ScatterChart
+    m_TextFontSize: 16
+    m_SubText: 
+    m_SubTextFontSize: 14
+    m_ItemGap: 14
+    m_Location:
+      m_Align: 2
+      m_Left: 0
+      m_Right: 0
+      m_Top: 5
+      m_Bottom: 0
+  m_Legend:
+    m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 0
+    m_Orient: 0
+    m_Location:
+      m_Align: 2
+      m_Left: 0
+      m_Right: 0
+      m_Top: 30
+      m_Bottom: 0
+    m_ItemWidth: 60
+    m_ItemHeight: 20
+    m_ItemGap: 5
+    m_ItemFontSize: 16
+    m_Data:
+    - serie1
+  m_Tooltip:
+    m_Show: 1
+    m_Type: 2
+    m_Trigger: 0
+  m_Series:
+    m_JsonData: 
+    m_DataFromJson: 0
+    m_Series:
+    - m_JsonData: 
+      m_DataFromJson: 0
+      m_Show: 1
+      m_Type: 5
+      m_Selected: 0
+      m_Name: serie1
+      m_Stack: 
+      m_AxisIndex: 0
+      m_Symbol:
+        m_Type: 1
+        m_SizeType: 0
+        m_Size: 10
+        m_SelectedSize: 20
+        m_DataIndex: 1
+        m_DataScale: 1
+        m_SelectedDataScale: 1.5
+      m_ShowDataDimension: 0
+      m_ShowDataName: 0
+      m_YData:
+      - 18
+      - 74
+      - 34
+      - 34
+      - 45
+      - 85
+      - 47
+      - 71
+      - 62
+      - 68
+      m_XData:
+      - 56
+      - 20
+      - 11
+      - 27
+      - 47
+      - 65
+      - 25
+      - 95
+      - 17
+      - 72
+      m_Data:
+      - m_Name: 
+        m_Data:
+        - 56
+        - 18
+      - m_Name: 
+        m_Data:
+        - 20
+        - 74
+      - m_Name: 
+        m_Data:
+        - 11
+        - 34
+      - m_Name: 
+        m_Data:
+        - 27
+        - 34
+      - m_Name: 
+        m_Data:
+        - 47
+        - 45
+      - m_Name: 
+        m_Data:
+        - 65
+        - 85
+      - m_Name: 
+        m_Data:
+        - 25
+        - 47
+      - m_Name: 
+        m_Data:
+        - 95
+        - 71
+      - m_Name: 
+        m_Data:
+        - 17
+        - 62
+      - m_Name: 
+        m_Data:
+        - 72
+        - 68
+  m_Large: 1
+  m_MinShowDataNumber: 0
+  m_MaxShowDataNumber: 0
+  m_MaxCacheDataNumber: 0
+  m_Coordinate:
+    m_Left: 50
+    m_Right: 30
+    m_Top: 50
+    m_Bottom: 30
+    m_Tickness: 0.6
+    m_FontSize: 16
+  m_XAxises:
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 1
+    m_Type: 0
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 0
+    m_Data: []
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 0
+    m_Type: 1
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 0
+    m_Data: []
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  m_YAxises:
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 1
+    m_Type: 0
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 0
+    m_Data: []
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  - m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 0
+    m_Type: 0
+    m_MinMaxType: 0
+    m_Min: 0
+    m_Max: 0
+    m_SplitNumber: 5
+    m_ShowSplitLine: 0
+    m_SplitLineType: 2
+    m_BoundaryGap: 0
+    m_Data: []
+    m_AxisLine:
+      m_Show: 1
+      m_OnZero: 1
+      m_Symbol: 0
+      m_SymbolWidth: 10
+      m_SymbolHeight: 15
+      m_SymbolOffset: 0
+      m_SymbolDent: 3
+    m_AxisName:
+      m_Show: 0
+      m_Name: axisName
+      m_Location: 2
+      m_Gap: 5
+      m_Rotate: 0
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_AxisTick:
+      m_Show: 1
+      m_AlignWithLabel: 0
+      m_Inside: 0
+      m_Length: 5
+    m_AxisLabel:
+      m_Show: 1
+      m_Interval: 0
+      m_Inside: 0
+      m_Rotate: 0
+      m_Margin: 8
+      m_Color: {r: 0, g: 0, b: 0, a: 0}
+      m_FontSize: 18
+      m_FontStyle: 0
+    m_SplitArea:
+      m_Show: 0
+      m_Color:
+      - {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 0.3019608}
+      - {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.3019608}
+  m_DataZoom:
+    m_Show: 0
+    m_Type: 1
+    m_FilterMode: 3
+    m_Orient: 0
+    m_XAxisIndex: 0
+    m_YAxisIndex: 0
+    m_ShowDataShadow: 1
+    m_ShowDetail: 0
+    m_ZoomLock: 0
+    m_Realtime: 1
+    m_BackgroundColor: {r: 0, g: 0, b: 0, a: 0}
+    m_Height: 50
+    m_Bottom: 10
+    m_RangeMode: 0
+    m_Start: 30
+    m_End: 70
+    m_StartValue: 0
+    m_EndValue: 0
+    m_ScrollSensitivity: 10
+  m_Scatter:
+    m_Name: 
+    m_InsideRadius: 0
+    m_OutsideRadius: 0
+    m_TooltipExtraRadius: 0
+--- !u!222 &617298694
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 617298691}
+  m_CullTransparentMesh: 0
+--- !u!1 &683533157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 683533158}
+  - component: {fileID: 683533160}
+  - component: {fileID: 683533159}
+  m_Layer: 5
+  m_Name: Pie
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &683533158
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 683533157}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1578385681}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 290, y: 150}
+  m_SizeDelta: {x: 580, y: 300}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &683533159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 683533157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d44276ba809fd92408b296835f6f7658, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_ChartWidth: 580
+  m_ChartHeight: 300
+  m_ThemeInfo:
+    m_Theme: 0
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_BackgroundColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    m_TextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_TitleSubTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_LegendTextColor:
+      serializedVersion: 2
+      rgba: 4293848814
+    m_LegendUnableColor:
+      serializedVersion: 2
+      rgba: 4291611852
+    m_AxisTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_AxisLineColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_AxisSplitLineColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_TooltipBackgroundColor:
+      serializedVersion: 2
+      rgba: 3360772433
+    m_TooltipFlagAreaColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_TooltipTextColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    m_TooltipLabelColor:
+      serializedVersion: 2
+      rgba: 4280887593
+    m_TooltipLineColor:
+      serializedVersion: 2
+      rgba: 1680419113
+    m_DataZoomTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_DataZoomLineColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_DataZoomSelectedColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_ColorPalette:
+    - serializedVersion: 2
+      rgba: 4281415106
+    - serializedVersion: 2
+      rgba: 4283712815
+    - serializedVersion: 2
+      rgba: 4289241185
+    - serializedVersion: 2
+      rgba: 4284842708
+    - serializedVersion: 2
+      rgba: 4289644433
+    - serializedVersion: 2
+      rgba: 4286816116
+    - serializedVersion: 2
+      rgba: 4280452810
+    - serializedVersion: 2
+      rgba: 4288324285
+    - serializedVersion: 2
+      rgba: 4285821038
+    - serializedVersion: 2
+      rgba: 4285556052
+    - serializedVersion: 2
+      rgba: 4292070596
+    m_CustomFont: {fileID: 0}
+    m_CustomBackgroundColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTitleSubTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomLegendTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomLegendUnableColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisSplitLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipBackgroundColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipFlagAreaColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipLabelColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomSelectedColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomColorPalette:
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+  m_Title:
+    m_Show: 1
+    m_Text: PieChart
+    m_TextFontSize: 16
+    m_SubText: 
+    m_SubTextFontSize: 14
+    m_ItemGap: 14
+    m_Location:
+      m_Align: 2
+      m_Left: 0
+      m_Right: 0
+      m_Top: 5
+      m_Bottom: 0
+  m_Legend:
+    m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 0
+    m_Orient: 0
+    m_Location:
+      m_Align: 2
+      m_Left: 0
+      m_Right: 0
+      m_Top: 30
+      m_Bottom: 0
+    m_ItemWidth: 60
+    m_ItemHeight: 20
+    m_ItemGap: 5
+    m_ItemFontSize: 16
+    m_Data:
+    - serie1
+    - serie2
+  m_Tooltip:
+    m_Show: 1
+    m_Type: 0
+    m_Trigger: 0
+  m_Series:
+    m_JsonData: 
+    m_DataFromJson: 0
+    m_Series:
+    - m_JsonData: 
+      m_DataFromJson: 0
+      m_Show: 1
+      m_Type: 2
+      m_Selected: 0
+      m_Name: serie1
+      m_Stack: 
+      m_AxisIndex: 0
+      m_Symbol:
+        m_Type: 5
+        m_SizeType: 0
+        m_Size: 20
+        m_SelectedSize: 30
+        m_DataIndex: 1
+        m_DataScale: 1
+        m_SelectedDataScale: 1.5
+      m_ShowDataDimension: 0
+      m_ShowDataName: 0
+      m_YData:
+      - 80
+      m_XData:
+      - 0
+      m_Data:
+      - m_Name: 
+        m_Data:
+        - 0
+        - 80
+    - m_JsonData: 
+      m_DataFromJson: 0
+      m_Show: 1
+      m_Type: 2
+      m_Selected: 0
+      m_Name: serie2
+      m_Stack: 
+      m_AxisIndex: 0
+      m_Symbol:
+        m_Type: 5
+        m_SizeType: 0
+        m_Size: 20
+        m_SelectedSize: 30
+        m_DataIndex: 1
+        m_DataScale: 1
+        m_SelectedDataScale: 1.5
+      m_ShowDataDimension: 0
+      m_ShowDataName: 0
+      m_YData:
+      - 20
+      m_XData:
+      - 0
+      m_Data:
+      - m_Name: 
+        m_Data:
+        - 0
+        - 20
+    - m_JsonData: 
+      m_DataFromJson: 0
+      m_Show: 1
+      m_Type: 2
+      m_Selected: 0
+      m_Name: serie3
+      m_Stack: 
+      m_AxisIndex: 0
+      m_Symbol:
+        m_Type: 5
+        m_SizeType: 0
+        m_Size: 20
+        m_SelectedSize: 30
+        m_DataIndex: 1
+        m_DataScale: 1
+        m_SelectedDataScale: 1.5
+      m_ShowDataDimension: 0
+      m_ShowDataName: 0
+      m_YData:
+      - 20
+      m_XData:
+      - 0
+      m_Data:
+      - m_Name: 
+        m_Data:
+        - 0
+        - 20
+    - m_JsonData: 
+      m_DataFromJson: 0
+      m_Show: 1
+      m_Type: 2
+      m_Selected: 0
+      m_Name: serie4
+      m_Stack: 
+      m_AxisIndex: 0
+      m_Symbol:
+        m_Type: 5
+        m_SizeType: 0
+        m_Size: 20
+        m_SelectedSize: 30
+        m_DataIndex: 1
+        m_DataScale: 1
+        m_SelectedDataScale: 1.5
+      m_ShowDataDimension: 0
+      m_ShowDataName: 0
+      m_YData:
+      - 20
+      m_XData:
+      - 0
+      m_Data:
+      - m_Name: 
+        m_Data:
+        - 0
+        - 20
+    - m_JsonData: 
+      m_DataFromJson: 0
+      m_Show: 1
+      m_Type: 2
+      m_Selected: 0
+      m_Name: serie5
+      m_Stack: 
+      m_AxisIndex: 0
+      m_Symbol:
+        m_Type: 5
+        m_SizeType: 0
+        m_Size: 20
+        m_SelectedSize: 30
+        m_DataIndex: 1
+        m_DataScale: 1
+        m_SelectedDataScale: 1.5
+      m_ShowDataDimension: 0
+      m_ShowDataName: 0
+      m_YData:
+      - 20
+      m_XData:
+      - 0
+      m_Data:
+      - m_Name: 
+        m_Data:
+        - 0
+        - 20
+    - m_JsonData: 
+      m_DataFromJson: 0
+      m_Show: 1
+      m_Type: 2
+      m_Selected: 0
+      m_Name: serie6
+      m_Stack: 
+      m_AxisIndex: 0
+      m_Symbol:
+        m_Type: 5
+        m_SizeType: 0
+        m_Size: 20
+        m_SelectedSize: 30
+        m_DataIndex: 1
+        m_DataScale: 1
+        m_SelectedDataScale: 1.5
+      m_ShowDataDimension: 0
+      m_ShowDataName: 0
+      m_YData:
+      - 20
+      m_XData:
+      - 0
+      m_Data:
+      - m_Name: 
+        m_Data:
+        - 0
+        - 20
+  m_Large: 1
+  m_MinShowDataNumber: 0
+  m_MaxShowDataNumber: 0
+  m_MaxCacheDataNumber: 0
+  m_Pie:
+    m_Name: Pie
+    m_InsideRadius: 40
+    m_OutsideRadius: 80
+    m_TooltipExtraRadius: 10
+    m_Selected: 0
+    m_SelectedIndex: 0
+    m_SelectedOffset: 10
+    m_Rose: 0
+    m_Space: 0
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+--- !u!222 &683533160
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 683533157}
+  m_CullTransparentMesh: 0
+--- !u!1 &710570783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 710570784}
+  - component: {fileID: 710570786}
+  - component: {fileID: 710570785}
+  m_Layer: 5
+  m_Name: Radar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &710570784
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 710570783}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1578385681}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 580, y: 300}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &710570785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 710570783}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2231a0d3e3a5b043b074f6739be4a86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_ChartWidth: 580
+  m_ChartHeight: 300
+  m_ThemeInfo:
+    m_Theme: 0
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_BackgroundColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    m_TextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_TitleSubTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_LegendTextColor:
+      serializedVersion: 2
+      rgba: 4293848814
+    m_LegendUnableColor:
+      serializedVersion: 2
+      rgba: 4291611852
+    m_AxisTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_AxisLineColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_AxisSplitLineColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_TooltipBackgroundColor:
+      serializedVersion: 2
+      rgba: 3360772433
+    m_TooltipFlagAreaColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_TooltipTextColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    m_TooltipLabelColor:
+      serializedVersion: 2
+      rgba: 4280887593
+    m_TooltipLineColor:
+      serializedVersion: 2
+      rgba: 1680419113
+    m_DataZoomTextColor:
+      serializedVersion: 2
+      rgba: 4283256145
+    m_DataZoomLineColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_DataZoomSelectedColor:
+      serializedVersion: 2
+      rgba: 542200145
+    m_ColorPalette:
+    - serializedVersion: 2
+      rgba: 4281415106
+    - serializedVersion: 2
+      rgba: 4283712815
+    - serializedVersion: 2
+      rgba: 4289241185
+    - serializedVersion: 2
+      rgba: 4284842708
+    - serializedVersion: 2
+      rgba: 4289644433
+    - serializedVersion: 2
+      rgba: 4286816116
+    - serializedVersion: 2
+      rgba: 4280452810
+    - serializedVersion: 2
+      rgba: 4288324285
+    - serializedVersion: 2
+      rgba: 4285821038
+    - serializedVersion: 2
+      rgba: 4285556052
+    - serializedVersion: 2
+      rgba: 4292070596
+    m_CustomFont: {fileID: 0}
+    m_CustomBackgroundColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTitleSubTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomLegendTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomLegendUnableColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomAxisSplitLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipBackgroundColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipFlagAreaColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipLabelColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomTooltipLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomTextColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomLineColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomDataZoomSelectedColor:
+      serializedVersion: 2
+      rgba: 0
+    m_CustomColorPalette:
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+    - serializedVersion: 2
+      rgba: 0
+  m_Title:
+    m_Show: 1
+    m_Text: RadarChart
+    m_TextFontSize: 16
+    m_SubText: 
+    m_SubTextFontSize: 14
+    m_ItemGap: 14
+    m_Location:
+      m_Align: 2
+      m_Left: 0
+      m_Right: 0
+      m_Top: 5
+      m_Bottom: 0
+  m_Legend:
+    m_JsonData: 
+    m_DataFromJson: 0
+    m_Show: 0
+    m_Orient: 0
+    m_Location:
+      m_Align: 2
+      m_Left: 0
+      m_Right: 0
+      m_Top: 30
+      m_Bottom: 0
+    m_ItemWidth: 60
+    m_ItemHeight: 20
+    m_ItemGap: 5
+    m_ItemFontSize: 16
+    m_Data:
+    - serie1
+  m_Tooltip:
+    m_Show: 1
+    m_Type: 0
+    m_Trigger: 0
+  m_Series:
+    m_JsonData: 
+    m_DataFromJson: 0
+    m_Series:
+    - m_JsonData: 
+      m_DataFromJson: 0
+      m_Show: 1
+      m_Type: 3
+      m_Selected: 0
+      m_Name: serie1
+      m_Stack: 
+      m_AxisIndex: 0
+      m_Symbol:
+        m_Type: 5
+        m_SizeType: 0
+        m_Size: 20
+        m_SelectedSize: 30
+        m_DataIndex: 1
+        m_DataScale: 1
+        m_SelectedDataScale: 1.5
+      m_ShowDataDimension: 0
+      m_ShowDataName: 0
+      m_YData:
+      - 66
+      - 25
+      - 48
+      - 45
+      - 69
+      m_XData:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      m_Data:
+      - m_Name: 
+        m_Data:
+        - 0
+        - 66
+      - m_Name: 
+        m_Data:
+        - 1
+        - 25
+      - m_Name: 
+        m_Data:
+        - 2
+        - 48
+      - m_Name: 
+        m_Data:
+        - 3
+        - 45
+      - m_Name: 
+        m_Data:
+        - 4
+        - 69
+  m_Large: 1
+  m_MinShowDataNumber: 0
+  m_MaxShowDataNumber: 0
+  m_MaxCacheDataNumber: 0
+  m_Radar:
+    m_JsonData: 
+    m_DataFromJson: 0
+    m_Cricle: 0
+    m_Area: 1
+    m_Radius: 100
+    m_SplitNumber: 5
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+    m_LineTickness: 1
+    m_LinePointSize: 10
+    m_LineColor: {r: 0, g: 0, b: 0, a: 1}
+    m_AreaAlpha: 150
+    m_BackgroundColorList:
+    - {r: 0.9647059, g: 0.9647059, b: 0.9647059, a: 1}
+    - {r: 0.254717, g: 0.1742168, b: 0.1742168, a: 1}
+    - {r: 1, g: 0, b: 0, a: 1}
+    m_Indicator: 1
+    m_IndicatorList:
+    - m_Name: radar1
+      m_Max: 100
+    - m_Name: radar2
+      m_Max: 100
+    - m_Name: radar3
+      m_Max: 100
+    - m_Name: radar4
+      m_Max: 100
+    - m_Name: radar5
+      m_Max: 100
+--- !u!222 &710570786
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 710570783}
+  m_CullTransparentMesh: 0
+--- !u!1 &1421141251
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1421141253}
+  - component: {fileID: 1421141252}
+  m_Layer: 0
+  m_Name: Directional Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!108 &1421141252
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1421141251}
+  m_Enabled: 1
+  serializedVersion: 9
+  m_Type: 1
+  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_InnerSpotAngle: 21.80208
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 2
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!4 &1421141253
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1421141251}
+  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &1578385677
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1578385681}
+  - component: {fileID: 1578385680}
+  - component: {fileID: 1578385679}
+  - component: {fileID: 1578385678}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1578385678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1578385677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1578385679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1578385677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!223 &1578385680
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1578385677}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1578385681
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1578385677}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 566549299}
+  - {fileID: 491461255}
+  - {fileID: 683533158}
+  - {fileID: 710570784}
+  - {fileID: 617298692}
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
