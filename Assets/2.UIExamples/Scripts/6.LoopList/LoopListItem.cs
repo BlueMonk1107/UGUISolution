@@ -74,13 +74,19 @@ public class LoopListItem : MonoBehaviour
 
     private void JudgeSelfId(int _startId, int _endId)
     {
+        //这个是每次子物体超出范围的ID的偏移量
+        //在快速移动的时候，一次性超出范围的子项可能不止一个，存在多个的情况
+        //所以这里就是根据超过范围的个数，对ID进行偏移计算
+        int offset = 0;
         if (_id < _startId)
         {
-            ChangeId(_endId);
+            offset = _startId - _id - 1;
+            ChangeId(_endId - offset);
         }
         else if (_id > _endId)
         {
-            ChangeId(_startId);
+            offset = _id - _endId - 1;
+            ChangeId(_startId + offset);
         }
     }
 
