@@ -46,6 +46,7 @@ public class LoopListItem : MonoBehaviour
 
     public void Init(int id,float offsetY,int showItemNum)
     {
+        _id = -1;
         _content = transform.parent.GetComponent<RectTransform>();
         _showItemNum = showItemNum;
         _offset = offsetY;

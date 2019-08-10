@@ -22,6 +22,8 @@ public class LanguageItem : MonoBehaviour
 
     private void UpdateData()
     {
+        if(ID == 0)
+            return;
         TextData textData = MultiLanguageSystem.Instance.GetTextData(ID);
         if (textData.Equals(default(TextData)))
         {
