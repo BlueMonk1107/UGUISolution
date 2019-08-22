@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/3.UIOptimize/Scenes/RuntimeAltas/SelectView.unity
+    guid: 85e0a5e4b0aaadc449566ea0afab8ce2
+  - enabled: 1
+    path: Assets/3.UIOptimize/Scenes/RuntimeAltas/Game.unity
+    guid: b864469e30996884ca73ea403f64210c
   m_configObjects: {}

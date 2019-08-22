@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TestAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 027293fb3a56c7d4e8f8b04a67f731ee, type: 3}
+    totalSpriteSurfaceArea: 57344
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2f81a031742f27644bdbbdc0ff7de6d4, type: 3}
+  - {fileID: 21300000, guid: a0556bc18bbed8142bb2254cac2eb7df, type: 3}
+  - {fileID: 21300000, guid: 880350225a1857f46b226ddd3fe33dc5, type: 3}
+  - {fileID: 21300000, guid: d4e7d2a3a47d2b44ba5e1edb88a03b60, type: 3}
+  - {fileID: 21300000, guid: 0b2fc1789f46c5742a05164829df7af2, type: 3}
+  - {fileID: 21300000, guid: 83b181d8f2de80644b7d80e7a7725666, type: 3}
+  - {fileID: 21300000, guid: 1425490b369b63e4fa441ff0ca1d030a, type: 3}
+  - {fileID: 21300000, guid: 605a31ab671326b43838e13657c05c85, type: 3}
+  - {fileID: 21300000, guid: 00d0c40c9bc07d44987ec8ecff0ba0e2, type: 3}
+  - {fileID: 21300000, guid: 8584b72cd22867747978d65725159190, type: 3}
+  - {fileID: 21300000, guid: f4121f4d1a22f514695752f7193f9c22, type: 3}
+  - {fileID: 21300000, guid: c01087fd4410cf84d8b2a7a899fa5641, type: 3}
+  - {fileID: 21300000, guid: 74fd308e9c0c62748a3c3ef3f97ba6e8, type: 3}
+  - {fileID: 21300000, guid: 5b1816ce39c36354d85c78007e3ec844, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - weapon01
+  - cloth01
+  - boot02
+  - bluePotion02
+  - cloth02
+  - redPotion01
+  - bluePotion01
+  - redPotion02
+  - hat02
+  - hat01
+  - weapon02
+  - trousers02
+  - trousers01
+  - boot01
+  m_Tag: TestAtlas
+  m_IsVariant: 0

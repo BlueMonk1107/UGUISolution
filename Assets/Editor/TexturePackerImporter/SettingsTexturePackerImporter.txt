@@ -1,0 +1,21 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Altas/Human.tpsheet
+- Assets/Altas/HumanTemp.tpsheet
+- Assets/Altas/Test.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/PackerTest/data.tpsheet
+textureFileNames:
+- Assets/Altas/Human.png
+- Assets/Altas/HumanTemp.png
+- Assets/Altas/Test.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/PackerTest/Altas.png
+normalmapFileNames:
+- 
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+enableDebugOutput: 0

@@ -97,14 +97,14 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a65cd3ef308d0544c869bc10ae973534
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+  spritePackingTag: test
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
